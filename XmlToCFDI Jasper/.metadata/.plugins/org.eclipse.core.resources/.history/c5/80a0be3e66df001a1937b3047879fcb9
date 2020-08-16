@@ -19,9 +19,6 @@
 	<parameter name="folio" class="java.lang.String"/>
 	<parameter name="moneda" class="java.lang.String"/>
 	<parameter name="tipoCambio" class="java.lang.Float"/>
-	<parameter name="formaPago" class="java.lang.String"/>
-	<parameter name="metodoPago" class="java.lang.String"/>
-	<parameter name="condicionesPago" class="java.lang.String"/>
 	<queryString>
 		<![CDATA[]]>
 	</queryString>
@@ -257,7 +254,7 @@
 				<text><![CDATA[Forma de Pago:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="360" y="110" width="70" height="10" uuid="8e446f02-9dc4-4971-9bcd-0be652b23a56">
+				<reportElement x="360" y="110" width="100" height="10" uuid="8e446f02-9dc4-4971-9bcd-0be652b23a56">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
 				<textElement>
@@ -266,9 +263,8 @@
 				<text><![CDATA[Método de Pago:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="360" y="120" width="74" height="10" uuid="f0e87d04-dedb-406c-a9d1-bd2685b90c5a">
+				<reportElement x="360" y="120" width="100" height="10" uuid="f0e87d04-dedb-406c-a9d1-bd2685b90c5a">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
-					<property name="com.jaspersoft.studio.unit.width" value="px"/>
 				</reportElement>
 				<textElement>
 					<font size="8"/>
@@ -337,33 +333,6 @@
 					<font size="8"/>
 				</textElement>
 				<textFieldExpression><![CDATA[$P{tipoCambio}]]></textFieldExpression>
-			</textField>
-			<textField>
-				<reportElement x="440" y="100" width="100" height="10" uuid="53383781-a96c-48fb-bbfe-3e90f46c0618">
-					<property name="com.jaspersoft.studio.unit.height" value="px"/>
-				</reportElement>
-				<textElement>
-					<font size="8"/>
-				</textElement>
-				<textFieldExpression><![CDATA[$P{formaPago}]]></textFieldExpression>
-			</textField>
-			<textField>
-				<reportElement x="440" y="110" width="100" height="10" uuid="e914de46-6f58-4fef-9e81-442c3c3c2d4a">
-					<property name="com.jaspersoft.studio.unit.height" value="px"/>
-				</reportElement>
-				<textElement>
-					<font size="8"/>
-				</textElement>
-				<textFieldExpression><![CDATA[$P{metodoPago}]]></textFieldExpression>
-			</textField>
-			<textField>
-				<reportElement x="440" y="120" width="100" height="10" uuid="c731942d-964d-4de2-ad68-a9ee080f03f3">
-					<property name="com.jaspersoft.studio.unit.height" value="px"/>
-				</reportElement>
-				<textElement>
-					<font size="8"/>
-				</textElement>
-				<textFieldExpression><![CDATA[$P{condicionesPago}]]></textFieldExpression>
 			</textField>
 		</band>
 	</title>
