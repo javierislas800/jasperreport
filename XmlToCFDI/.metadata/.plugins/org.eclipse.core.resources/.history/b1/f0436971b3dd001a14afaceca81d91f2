@@ -1,0 +1,9 @@
+package com.xmltocfdi_3_3;
+
+public class Test {
+
+	static public void main(String args[]) throws Exception {
+		System.out.println("123...");
+	}
+	
+}

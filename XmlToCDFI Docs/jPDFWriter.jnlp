@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.5" codebase="https://www.qoppa.com/files/pdfwriter/demo" href="jPDFWriter.jnlp">
+   <information>
+      <title>jPDFWriter WebStart Demo</title>
+      <vendor>Qoppa Software, LLC</vendor>
+      <description>jPDFWriter WebStart Demo</description>
+      <homepage href="https://www.qoppa.com/pdfwriter/"/>
+      <description kind="short">jPDFWriter is a Java class library that allows you to create PDF documents directly from your Java™ applications.</description>
+      <offline-allowed/>
+   </information>
+   <security>
+      <all-permissions/>
+   </security>
+   <resources>
+      <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se" max-heap-size="256m"/>
+      <jar href="/files/pdfwriter/jars/jPDFWriter.jar"/>
+      <jar href="/files/pdfwriter/jars/psamples.jar" main="true"/>
+	  <jar href="/jarlib/jai_imageio.jar"/>
+   </resources>
+   <application-desc main-class="jPDFWriterSamples.PDFWriterFrame">
+      <argument>-hideapi</argument> 
+   </application-desc>
+</jnlp>

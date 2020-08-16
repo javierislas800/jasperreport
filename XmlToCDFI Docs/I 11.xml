@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:cce11="http://www.sat.gob.mx/ComercioExterior11" Version="3.3" Serie="I" Folio="11" Fecha="2019-07-12T10:44:43" Sello="ALmszy4C/MT/iIjE90FWvysKJH2wDd9fmiYpsXi4X96cn1vGkgsZwWt1TZ688UdAtj/DUSI6EsEBYnvJsRyqCfGR98l0i90eZeCpww1lHn27ZrBHQd2a20z3U6jrJknLGj3FHG6l4SPTeYD56EdGDxBm1jQn7YeNSoOi62XbIXeOuay/pbP7f2hW4fdrhPCdSVrjeRtdZCp3nrnYVkr2W8yFjKMAH7mZsYpZYrMEsmiJKDSoN5nPkR7QYxMQ+eh6QC5XTGE205ZwLUF+uAfuMJDmywhoiqaq988p9z8rtCb1ukyFGegEs2G3TFHspy9K+QPQ+9ivo5QEz3QJbly6Aw==" MetodoPago="PPD" NoCertificado="00001000000406781419" Certificado="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" CondicionesDePago="50% In Adv 50% Reception" SubTotal="96985.00" TipoCambio="19.1227" Moneda="USD" Total="96985.00" TipoDeComprobante="I" FormaPago="99" LugarExpedicion="45116" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/ComercioExterior11 http://www.sat.gob.mx/sitio_internet/cfd/comercioexterior11/comercioexterior11.xsd"><cfdi:Emisor Rfc="WAS070721UM3" Nombre="TEQUILA CARRERA SA DE CV" RegimenFiscal="601"></cfdi:Emisor><cfdi:Receptor Rfc="XEXX010101000" Nombre="Pacific Edge Wine &amp; Spirits" ResidenciaFiscal="USA" NumRegIdTrib="470873333" UsoCFDI="G01"></cfdi:Receptor><cfdi:Conceptos><cfdi:Concepto ClaveProdServ="50202200" NoIdentificacion="1819588013100" Cantidad="630.00" ClaveUnidad="XBX" Descripcion="Tequila Tesoro Number 5 Blanco 100% Agave 12/750 ML 40%  Alc. Vol. (80 Proof)" ValorUnitario="81.50" Importe="51345.00"></cfdi:Concepto><cfdi:Concepto ClaveProdServ="50202200" NoIdentificacion="1819588013117" Cantidad="560.00" ClaveUnidad="XBX" Descripcion="Tequila Tesoro Number 5 Reposado 100% Agave 12/750 ML 40% Alc. Vol. (80 Proof)" ValorUnitario="81.50" Importe="45640.00"></cfdi:Concepto></cfdi:Conceptos><cfdi:Complemento><cce11:ComercioExterior Version="1.1" TipoOperacion="2" ClaveDePedimento="A1" CertificadoOrigen="1" Incoterm="EXW" Subdivision="0" TipoCambioUSD="19.1227" TotalUSD="96985.00"><cce11:Emisor><cce11:Domicilio Calle="Av. Acueducto " NumeroExterior="4851" NumeroInterior="3 Piso 2" Colonia="0699" Localidad="10" Municipio="120" Estado="JAL" Pais="MEX" CodigoPostal="45116"/></cce11:Emisor><cce11:Propietario NumRegIdTrib="470873333" ResidenciaFiscal="USA"/><cce11:Receptor><cce11:Domicilio Calle="Clareton  Drive" NumeroExterior="5155" NumeroInterior="Suite 100" Colonia="Agoura Hills" Municipio="Agoura Hills" Estado="CA" Pais="USA" CodigoPostal="91301"/></cce11:Receptor><cce11:Destinatario NumRegIdTrib="470873333" Nombre="Pacific Edge Wine &amp; Spirits"><cce11:Domicilio Calle="Grapevine St." NumeroExterior="3090" Colonia="Mira Loma" Estado="CA" Pais="USA" CodigoPostal="91752"/></cce11:Destinatario><cce11:Mercancias><cce11:Mercancia NoIdentificacion="1819588013100" FraccionArancelaria="22089003" CantidadAduana="5670" UnidadAduana="08" ValorUnitarioAduana="9.06" ValorDolares="51345.00"><cce11:DescripcionesEspecificas Marca="Tesoro Number 5"/></cce11:Mercancia><cce11:Mercancia NoIdentificacion="1819588013117" FraccionArancelaria="22089003" CantidadAduana="5040" UnidadAduana="08" ValorUnitarioAduana="9.06" ValorDolares="45640.00"><cce11:DescripcionesEspecificas Marca="Tesoro Number 5"/></cce11:Mercancia></cce11:Mercancias></cce11:ComercioExterior><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="EC1E4A98-AB90-43B3-875E-FD168ED2D1C7" FechaTimbrado="2019-07-12T10:44:44" RfcProvCertif="LEV031201SE6" SelloCFD="ALmszy4C/MT/iIjE90FWvysKJH2wDd9fmiYpsXi4X96cn1vGkgsZwWt1TZ688UdAtj/DUSI6EsEBYnvJsRyqCfGR98l0i90eZeCpww1lHn27ZrBHQd2a20z3U6jrJknLGj3FHG6l4SPTeYD56EdGDxBm1jQn7YeNSoOi62XbIXeOuay/pbP7f2hW4fdrhPCdSVrjeRtdZCp3nrnYVkr2W8yFjKMAH7mZsYpZYrMEsmiJKDSoN5nPkR7QYxMQ+eh6QC5XTGE205ZwLUF+uAfuMJDmywhoiqaq988p9z8rtCb1ukyFGegEs2G3TFHspy9K+QPQ+9ivo5QEz3QJbly6Aw==" NoCertificadoSAT="00001000000405179533" SelloSAT="PEerMD/N7C8ue79PIgd3oT4HhguTRNEL8AmrUy/tyBnFZRpQtoKtveDClfeEcP1G90URd/HzCA///Vi+CjIjHvYxPccx0dPX4s0GwcSLtAngYLsK5zVdJIXRYS9CcYGny0QT/pOHilUq/W+Xh8awzOXiPI0739/VyzA/wVhV5Z1VNIK+5yrt8qq25eIbo4SXgc1kf8gImiJFXnQ5yPg4Vffmg2iN7H6MO7xpxgaNLHYKyFzMIwzd62+NxdgrvL1iwP+mmjc98dNmwMN/knU4o4eNCpnVqyDPtFOeKTPlwdTpN9f3Mb/u7kY9O7Bgn8pnxUzfiL9X2fvsk018j7n11w==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd"/></cfdi:Complemento><cfdi:Addenda><lev1add:EDCINVOICE xmlns:lev1add="http://www.edcinvoice.com/lev1add" xsi:schemaLocation="http://www.edcinvoice.com/lev1add http://www.edcinvoice.com/lev1add/lev1add.xsd">[H0C_Generales]|XEXX010101000|901214|3.3|2019|00001000000406781419|D00|P
+[H1F_Comprobante]|3.3|I|11|2019-07-12T10:44:43|99|50% In Adv 50% Reception|96985.00||USD|19.1227|96985.00|I|PPD|45116|||||||||||||||||||||
+[H1C_Comprobante]||||||||||||||||||||||||||s||||||||||||||||||||||||||Factura||||||||||||||||||||||||||||||||||||||
+[H2F_CfdiRelacionados]|||||
+[H2C_CfdiRelacionados]|||||||||||||||||
+[H2-1F_CfdiRelacionado]|||||
+[H2-1C_CfdiRelacionado]|||||
+[H3F_Emisor]|WAS070721UM3|TEQUILA CARRERA SA DE CV|601|||||||||||||||||
+[H3C_Emisor]|||||||||||||||||||||||||||||||||
+[H3-1C_EmisorDomFiscal]|||||||||||||||||||||||||
+[H3-2C_EmisorDomExped]||||||||||||||||||||||||||||
+[H4F_Receptor]|XEXX010101000|Pacific Edge Wine &amp; Spirits|USA|470873333|G01||||||||||||||||||||
+[H4C_Receptor]|||||||||||||||||||||||||||
+[H4-1C_ReceptorDom]|||||||||||||||||||||||||
+[H4-2C_ReceptorEntrega]|||||||||||||||||||||||||||||||||||
+[D1F_Detalle]|50202200|1819588013100|630.00|XBX||Tequila Tesoro Number 5 Blanco 100% Agave 12/750 ML 40%  Alc. Vol. (80 Proof)|81.50|51345.00||||||||||||||||||||||
+[D1C_Detalle]|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+[D2F_ImpTrasladosTraslado]||||||||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[D1F_Detalle]|50202200|1819588013117|560.00|XBX||Tequila Tesoro Number 5 Reposado 100% Agave 12/750 ML 40% Alc. Vol. (80 Proof)|81.50|45640.00||||||||||||||||||||||
+[D1C_Detalle]|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+[D2F_ImpTrasladosTraslado]||||||||||
+[D2C_ImpTrasladosTraslado]||||||||||
+[D3F_ImpRetencionesRetencion]||||||||||
+[D3C_ImpRetencionesRetencion]||||||||||
+[D4F_InformacionAduanera]|||||
+[D4C_InformacionAduanera]|||||
+[D5F_CuentaPredial]|||||
+[D5C_CuentaPredial]|||||
+[D6F_Parte]||||||||||
+[D6C_Parte]||||||||||
+[D7F_ParteInfAduanera]|||||
+[D7C_ParteInfAduanera]|||||
+[I1F_Impuestos]||||||||||
+[I1C_Impuestos]||||||||||
+[I2F_Retencion]||||||||||
+[I2C_Retencion]||||||||||
+[I3F_Trasladado]||||||||||
+[I3C_Trasladado]||||||||||
+[SC_Sumario]||||||||||||||||||||||||||||||||||||||||||||||||||||
+[ComercioExterior]|1.1||2|A1|1|||EXW|0||19.1227|96985.00
+[Emisor]|
+[DomicilioE]|Av. Acueducto |4851|3 Piso 2|0699|10||120|JAL|MEX|45116||
+[Propietario]|470873333|USA
+[Receptor]|
+[DomicilioR]|Clareton  Drive|5155|Suite 100|Agoura Hills|||Agoura Hills|CA|USA|91301
+[Destinatario]|470873333|Pacific Edge Wine &amp; Spirits
+[DomicilioD]|Grapevine St.|3090||Mira Loma||||CA|USA|91752
+[Mercancias]
+[Mercancia]|1819588013100|22089003|5670|08|9.06|51345.00
+[CO]|||3.3|I|11|2019-07-12T10:44:43|99|00001000000406781419|50% In Adv 50% Reception|96985.00|USD|19.1227|96985.00|I|PPD|45116|WAS070721UM3|TEQUILA CARRERA SA DE CV|601|XEXX010101000|Pacific Edge Wine &amp; Spirits|USA|470873333|G01|50202200|1819588013100|630.00|XBX|Tequila Tesoro Number 5 Blanco 100% A|
+[CO]|gave 12/750 ML 40% Alc. Vol. (80 Proof)|81.50|51345.00|50202200|1819588013117|560.00|XBX|Tequila Tesoro Number 5 Reposado 100% Agave 12/750 ML 40% Alc. Vol. (80 Proof)|81.50|45640.00|1.1|2|A1|1|EXW|0|19.1227|96985.00|Av. Acueducto|4851|3 Piso 2|0699|10|120|JAL|MEX|45116|470873333|USA|Clareton D|
+[CO]|rive|5155|Suite 100|Agoura Hills|Agoura Hills|CA|USA|91301|470873333|Pacific Edge Wine &amp; Spirits|Grapevine St.|3090|Mira Loma|CA|USA|91752|1819588013100|22089003|5670|08|9.06|51345.00|Tesoro Number 5|1819588013117|22089003|5040|08|9.06|45640.00|Tesoro Number 5|||
+[SE]|ALmszy4C/MT/iIjE90FWvysKJH2wDd9fmiYpsXi4X96cn1vGkgsZwWt1TZ688UdAtj/DUSI6EsEBYnvJsRyqCfGR98l0i90eZeCpww1lHn27ZrBHQd2a20z3U6jrJknLGj3FHG6l4SPTeYD56EdGDxBm1jQn7YeNSoOi62XbIXeOuay/pbP7f2hW4fdrhPCdSVrjeRtdZCp3nrnYVkr2W8yFjKMAH7mZsYpZYrMEsmiJKDSoN5nPkR7QYxMQ+eh6QC5XTGE205ZwLUF+uAfuMJDmywhoiqaq988p9z8rtCb1ukyFGegEs2G3TFHspy9K+QPQ+9ivo5QEz3QJbly6Aw==
+</lev1add:EDCINVOICE></cfdi:Addenda></cfdi:Comprobante>

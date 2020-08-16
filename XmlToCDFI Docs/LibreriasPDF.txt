@@ -1,0 +1,6 @@
+https://www.qoppa.com/pdfwriter/guide/sourcesamples/
+
+https://community.jaspersoft.com/wiki/jasperreports-library-first-steps
+
+
+https://www.baeldung.com/java-pdf-creation
