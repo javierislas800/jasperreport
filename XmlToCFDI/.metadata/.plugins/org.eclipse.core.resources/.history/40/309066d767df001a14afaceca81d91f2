@@ -71,7 +71,7 @@ public class Test {
 		params.put("serie", "I");
 		params.put("folio", "11");
 		params.put("moneda", "USD -");
-		params.put("tipoCambio", Float.parseFloat("19.1227"));
+		params.put("tipoCambio", "19.1227");
 		params.put("formaPago", "99 - Por definir");
 		params.put("metodoPago", "PPD - Pago en parcialidades o");
 		params.put("condicionesPago", "50% In Adv 50% Reception");

@@ -50,32 +50,8 @@ public class Test {
 
 		//Se agregan los parámetros para llenar el PDF.
 		Map<String, Object> params = new HashMap<String, Object>();
-		
-		// DATOS EMISOR
 		params.put("emisor", "TEQUILA CARRERA SA DE CV");
 		params.put("rfcEmisor", "WAS070721UM3");
-		params.put("regimenFiscal", "601 - General de Ley Personas Morales");
-		
-		// DATOS RECEPTOR
-		params.put("receptor", "Pacific Edge Wine & Spirits");
-		params.put("rfcReceptor", "XEXX010101000");
-		params.put("uso", "G01 - Adquisición de mercancias");
-		params.put("residencia", "USA");
-		params.put("identidad", "470873333");
-		
-		// DATOS FACTURA
-		params.put("factura", "EC1E4A98-AB90-43B3-875E-FD168ED2D1C7");
-		params.put("fechaEmision", "2019-07-12T10:44:43");
-		params.put("lugarExpedicion", "45116");
-		params.put("tipoComprobante", "I - Ingreso");
-		params.put("serie", "I");
-		params.put("folio", "11");
-		params.put("moneda", "USD -");
-		params.put("tipoCambio", Float.parseFloat("19.1227"));
-		params.put("formaPago", "99 - Por definir");
-		params.put("metodoPago", "PPD - Pago en parcialidades o");
-		params.put("condicionesPago", "50% In Adv 50% Reception");
-		
 		
 		// Se crea el pdf
 		JasperPrint jasperPrint = new JasperPrint();
