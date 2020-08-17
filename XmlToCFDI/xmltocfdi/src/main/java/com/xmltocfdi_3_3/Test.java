@@ -105,6 +105,24 @@ public class Test {
 		productos.add(p1);
 		productos.add(p2);
 		
+		for (int i = 0; i< 25; i++)
+			productos.add(p1);
+		
+		//Totales
+		params.put("importeLetra", "Noventa y seis mil novecientos ochenta y cinco 00/100 USD");
+		params.put("observaciones", "Standard Export Packing (USA) Tesoro Number 5 Materials (Bottle, Label, Cap, & Case)");
+		
+		params.put("subtotal", "$96,985.00");
+		params.put("total",    "$96,985.00");
+		params.put("totalArtsFacturados", "2");
+		
+		// Sellos
+		params.put("selloDigital", "ALmszy4C/MT/iIjE90FWvysKJH2wDd9fmiYpsXi4X96cn1vGkgsZwWt1TZ688UdAtj/DUSI6EsEBYnvJsRyqCfGR98l0i90eZeCpww1lHn27ZrBHQd2a20z3U6jrJknLGj3FHG6l4SPTeYD56EdGDxBm1jQn7YeNSoOi62\n" + 
+				"XbIXeOuay/pbP7f2hW4fdrhPCdSVrjeRtdZCp3nrnYVkr2W8yFjKMAH7mZsYpZYrMEsmiJKDSoN5nPkR7QYxMQ+eh6QC5XTGE205ZwLUF+uAfuMJDmywhoiqaq988p9z8rtCb1ukyFGegEs2G3TFHspy9K+QPQ+9i\n" + 
+				"vo5QEz3QJbly6Aw==");
+		params.put("selloSAT", "PEerMD/N7C8ue79PIgd3oT4HhguTRNEL8AmrUy/tyBnFZRpQtoKtveDClfeEcP1G90URd/HzCA///Vi+CjIjHvYxPccx0dPX4s0GwcSLtAngYLsK5zVdJIXRYS9CcYGny0QT/pOHilUq/W+Xh8awzOXiPI0739/VyzA/wVh\n" + 
+				"V5Z1VNIK+5yrt8qq25eIbo4SXgc1kf8gImiJFXnQ5yPg4Vffmg2iN7H6MO7xpxgaNLHYKyFzMIwzd62+NxdgrvL1iwP+mmjc98dNmwMN/knU4o4eNCpnVqyDPtFOeKTPlwdTpN9f3Mb/");
+		
 		JRDataSource cDataSource=new JRBeanCollectionDataSource(productos);
 		
 		// Se crea el pdf
