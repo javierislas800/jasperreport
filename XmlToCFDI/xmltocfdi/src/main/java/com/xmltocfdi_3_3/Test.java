@@ -12,10 +12,12 @@ import com.xmltocfdi_3_3.beans.Producto;
 
 import net.sf.jasperreports.engine.JRDataSource;
 import net.sf.jasperreports.engine.JREmptyDataSource;
+import net.sf.jasperreports.engine.JRExporterParameter;
 import net.sf.jasperreports.engine.JasperExportManager;
 import net.sf.jasperreports.engine.JasperFillManager;
 import net.sf.jasperreports.engine.JasperPrint;
 import net.sf.jasperreports.engine.data.JRBeanCollectionDataSource;
+import net.sf.jasperreports.engine.export.JRPdfExporter;
 
 public class Test {
 
@@ -31,6 +33,7 @@ public class Test {
 		//System.out.println("Despues de compilar el jrxml.");
 		
 		String jasperPath = "/Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/main/resources/cfdi_v3_3.jasper";
+		String imagesPath = "/Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/main/resources/";
 		
 		//Prefiero usar el .jrxml a la aplicacion que el .jasper por que es mas facil de versionar
 		String sourceFileName = jasperPath;   
@@ -56,6 +59,9 @@ public class Test {
 
 		//Se agregan los parámetros para llenar el PDF.
 		Map<String, Object> params = new HashMap<String, Object>();
+		
+		// IMAGES DIR
+		params.put("imagesDir", imagesPath);
 		
 		// DATOS EMISOR
 		params.put("emisor", "TEQUILA CARRERA SA DE CV");
@@ -132,8 +138,11 @@ public class Test {
 	
 		
 		
-		
-		
+		//JRPdfExporter exporter = new JRPdfExporter();     
+		  //Add the list as a Parameter
+		//  exporter.setParameter(JRExporterParameter.JASPER_PRINT_LIST, jasperPrintList);
+		  
+		  
 		
 		byte[] pdfBytes = JasperExportManager.exportReportToPdf(jasperPrint);
 		

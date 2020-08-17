@@ -2855,3 +2855,131 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.lowagie:i
 2020-08-17 13:14:47,751 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2020-08-17 13:14:47,754 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-17 13:14:47,754 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:21:18,278 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:21:18,279 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi-beans/src/main/resources
+2020-08-17 13:21:18,285 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:21:18,285 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi-beans/src/test/resources
+2020-08-17 13:21:21,517 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:21:21,518 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:21:21,537 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:21:21,537 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:21:30,247 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:21:30,249 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:21:30,252 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:21:30,252 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:23:13,922 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:23:13,923 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:23:13,928 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:23:13,929 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:23:25,336 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:23:25,336 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:23:25,339 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:23:25,339 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:30:02,006 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:30:02,010 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:30:02,018 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:30:02,018 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:30:12,522 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:30:12,523 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:30:12,536 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:30:12,536 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:31:23,277 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:31:23,279 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:31:23,283 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:31:23,283 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:31:34,139 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:31:34,140 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:31:34,141 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:31:34,142 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:36:14,141 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:36:14,145 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:36:14,147 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:36:14,147 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:37:45,422 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:37:45,424 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:37:45,425 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:37:45,425 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:47:51,502 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:47:51,506 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:47:51,509 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:47:51,509 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:51:32,297 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:51:32,298 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:51:32,310 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:51:32,311 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:51:41,746 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:51:41,747 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:51:41,751 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:51:41,751 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:55:31,209 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:55:31,210 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:55:31,228 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:55:31,228 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:55:45,380 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:55:45,380 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:55:45,390 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:55:45,390 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:59:44,205 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:59:44,208 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:59:44,215 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:59:44,215 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 13:59:52,939 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:59:52,940 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 13:59:52,942 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 13:59:52,942 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 14:02:42,940 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:02:42,941 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 14:02:42,943 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:02:42,943 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 14:02:52,210 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:02:52,211 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 14:02:52,214 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:02:52,214 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 14:03:03,775 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:03:03,778 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 14:03:03,783 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:03:03,785 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 14:03:14,666 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:03:14,666 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 14:03:14,669 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 14:03:14,669 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:24:00,603 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:24:00,616 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 15:24:00,625 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:24:00,625 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:24:09,951 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:24:09,952 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 15:24:09,954 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:24:09,954 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:27:20,346 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:27:20,362 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 15:27:20,375 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:27:20,375 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:30:29,564 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:30:29,568 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 15:30:29,583 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:30:29,583 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:33:13,228 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:33:13,231 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-17 15:33:13,233 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:33:13,233 [Worker-209: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:33:30,036 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:33:30,037 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-17 15:33:30,042 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:33:30,042 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:34:21,870 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:34:21,871 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-17 15:34:21,872 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:34:21,872 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:35:49,209 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:35:49,211 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-17 15:35:49,216 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:35:49,216 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:36:36,762 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:36:36,763 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-17 15:36:36,765 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:36:36,765 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:37:11,329 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:37:11,330 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-17 15:37:11,332 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:37:11,332 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
