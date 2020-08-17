@@ -1,5 +1,6 @@
 package com.xmltocfdi_3_3;
 
+import java.awt.image.BufferedImage;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -8,7 +9,9 @@ import java.util.Map;
 
 import org.apache.commons.io.FileUtils;
 
+import com.google.zxing.qrcode.QRCodeWriter;
 import com.xmltocfdi_3_3.beans.Producto;
+import com.xmltocfdi_3_3.qr.QRUtil;
 
 import net.sf.jasperreports.engine.JRDataSource;
 import net.sf.jasperreports.engine.JREmptyDataSource;
@@ -24,7 +27,16 @@ public class Test {
 	static public void main(String args[]) throws Exception {
 		System.out.println("Inicia...");
 		createPDF();
+		
+		
+		//createQR();
 		System.out.println("Termina de crear el archivo.");
+	}
+	
+	static public void createQR() throws Exception {
+		String qr = "https://verificacfdi.facturaelectronica.sat.gob.mx/default.aspx?&id=EC1E4A98-AB90-43B3-875E-FD168ED2D1C7&re=WAS070721UM3&rr=XEXX010101000&tt=000000000000096985.000000&fe=bly6Aw==";
+		String filePath = "/Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/main/resources/qr_java.png";
+		QRUtil.generateQRCodeImage(qr, filePath);
 	}
 	
 	static public void createPDF() throws Exception {
@@ -111,8 +123,8 @@ public class Test {
 		productos.add(p1);
 		productos.add(p2);
 		
-		for (int i = 0; i< 25; i++)
-			productos.add(p1);
+		//for (int i = 0; i< 25; i++)
+		//	productos.add(p1);
 		
 		//Totales
 		params.put("importeLetra", "Noventa y seis mil novecientos ochenta y cinco 00/100 USD");
@@ -130,6 +142,12 @@ public class Test {
 				"V5Z1VNIK+5yrt8qq25eIbo4SXgc1kf8gImiJFXnQ5yPg4Vffmg2iN7H6MO7xpxgaNLHYKyFzMIwzd62+NxdgrvL1iwP+mmjc98dNmwMN/knU4o4eNCpnVqyDPtFOeKTPlwdTpN9f3Mb/");
 		
 		JRDataSource cDataSource=new JRBeanCollectionDataSource(productos);
+		
+		// QR
+		String qr = "https://verificacfdi.facturaelectronica.sat.gob.mx/default.aspx?&id=EC1E4A98-AB90-43B3-875E-FD168ED2D1C7&re=WAS070721UM3&rr=XEXX010101000&tt=000000000000096985.000000&fe=bly6Aw==";
+		
+		params.put("qr", qr);
+		
 		
 		// Se crea el pdf
 		JasperPrint jasperPrint = new JasperPrint();

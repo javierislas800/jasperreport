@@ -19,6 +19,13 @@
 		<maven.compiler.target>1.7</maven.compiler.target>
 	</properties>
 
+	<repositories>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -42,11 +49,103 @@
 			<version>2.7</version>
 		</dependency>
 
-		<dependency> <groupId>com.lowagie</groupId> <artifactId>itext</artifactId> 
-			<version>2.1.7.js7</version> <scope>compile</scope> <optional>false</optional> 
-			<exclusions> <exclusion> <groupId>org.bouncycastle</groupId> <artifactId>bcmail-jdk15on</artifactId> 
-			</exclusion> <exclusion> <groupId>org.bouncycastle</groupId> <artifactId>bcpkix-jdk15on</artifactId> 
-			</exclusion> </exclusions> </dependency>
+		<dependency>
+			<groupId>com.lowagie</groupId>
+			<artifactId>itext</artifactId>
+			<version>2.1.7.js7</version>
+			<scope>compile</scope>
+			<optional>false</optional>
+			<exclusions>
+				<exclusion>
+					<groupId>org.bouncycastle</groupId>
+					<artifactId>bcmail-jdk15on</artifactId>
+				</exclusion>
+				<exclusion>
+					<groupId>org.bouncycastle</groupId>
+					<artifactId>bcpkix-jdk15on</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+
+		<!-- QR Generator -->
+		<dependency>
+			<groupId>org.apache.xmlgraphics</groupId>
+			<artifactId>batik-anim</artifactId>
+			<version>1.11</version>
+			<scope>compile</scope>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.xmlgraphics</groupId>
+			<artifactId>batik-awt-util</artifactId>
+			<version>1.11</version>
+			<scope>compile</scope>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.xmlgraphics</groupId>
+			<artifactId>batik-bridge</artifactId>
+			<version>1.11</version>
+			<scope>compile</scope>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.xmlgraphics</groupId>
+			<artifactId>batik-dom</artifactId>
+			<version>1.11</version>
+			<scope>compile</scope>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.xmlgraphics</groupId>
+			<artifactId>batik-gvt</artifactId>
+			<version>1.11</version>
+			<scope>compile</scope>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.xmlgraphics</groupId>
+			<artifactId>batik-svg-dom</artifactId>
+			<version>1.11</version>
+			<scope>compile</scope>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.xmlgraphics</groupId>
+			<artifactId>batik-svggen</artifactId>
+			<version>1.11</version>
+			<scope>compile</scope>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.xmlgraphics</groupId>
+			<artifactId>batik-transcoder</artifactId>
+			<version>1.11</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.barcode4j</groupId>
+			<artifactId>barcode4j</artifactId>
+			<version>2.1</version>
+			<scope>compile</scope>
+			<optional>true</optional>
+		</dependency>
+		<!-- dependency> <groupId>com.github.kenglxn.qrgen</groupId> <artifactId>javase</artifactId> 
+			<version>2.6.0</version> </dependency> <dependency> <groupId>net.sf.barcode4j</groupId> 
+			<artifactId>barcode4j</artifactId> <version>2.1</version> </dependency> <dependency> 
+			<groupId>org.apache.xmlgraphics</groupId> <artifactId>batik-bridge</artifactId> 
+			<version>1.11</version> </dependency> <dependency> <groupId>org.apache.xmlgraphics</groupId> 
+			<artifactId>batik-constants</artifactId> <version>1.13</version> </dependency -->
+		<dependency>
+			<groupId>com.google.zxing</groupId>
+			<artifactId>core</artifactId>
+			<version>3.3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.zxing</groupId>
+			<artifactId>javase</artifactId>
+			<version>3.3.0</version>
+		</dependency>
 
 	</dependencies>
 

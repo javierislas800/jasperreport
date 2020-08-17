@@ -2983,3 +2983,681 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.lowagie:i
 2020-08-17 15:37:11,330 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2020-08-17 15:37:11,332 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-17 15:37:11,332 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:49:56,708 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:49:56,710 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 15:49:56,720 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:49:56,720 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:52:19,628 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:52:19,631 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 15:52:19,646 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:52:19,647 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:52:27,660 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:52:27,663 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 15:52:27,665 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:52:27,665 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:53:49,167 [Worker-219: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 15:53:49,952 [Worker-219: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/lowagie/itext/2.1.7.js7/itext-2.1.7.js7.pom
+2020-08-17 15:53:49,959 [Worker-219: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 15:53:50,048 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:53:50,048 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 15:53:50,049 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:53:50,049 [Worker-219: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:54:20,234 [Worker-224: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 15:54:20,284 [Worker-225: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 15:54:20,329 [Worker-225: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 15:54:22,690 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0.pom
+2020-08-17 15:54:22,692 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0.pom
+2020-08-17 15:54:23,326 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0.pom
+2020-08-17 15:54:23,365 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0.pom
+2020-08-17 15:54:24,974 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/qrgen-parent/2.6.0/qrgen-parent-2.6.0.pom
+2020-08-17 15:54:24,974 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/qrgen-parent/2.6.0/qrgen-parent-2.6.0.pom
+2020-08-17 15:54:25,616 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/qrgen-parent/2.6.0/qrgen-parent-2.6.0.pom
+2020-08-17 15:54:25,766 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/qrgen-parent/2.6.0/qrgen-parent-2.6.0.pom
+2020-08-17 15:54:25,817 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/javase/3.3.0/javase-3.3.0.pom
+2020-08-17 15:54:25,949 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/javase/3.3.0/javase-3.3.0.pom
+2020-08-17 15:54:26,130 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/javase/3.3.0/javase-3.3.0.pom
+2020-08-17 15:54:26,168 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/javase/3.3.0/javase-3.3.0.pom
+2020-08-17 15:54:26,309 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/zxing-parent/3.3.0/zxing-parent-3.3.0.pom
+2020-08-17 15:54:26,344 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/zxing-parent/3.3.0/zxing-parent-3.3.0.pom
+2020-08-17 15:54:26,690 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/zxing-parent/3.3.0/zxing-parent-3.3.0.pom
+2020-08-17 15:54:26,727 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/zxing-parent/3.3.0/zxing-parent-3.3.0.pom
+2020-08-17 15:54:26,868 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/core/3.3.0/core-3.3.0.pom
+2020-08-17 15:54:26,900 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/core/3.3.0/core-3.3.0.pom
+2020-08-17 15:54:27,086 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/core/3.3.0/core-3.3.0.pom
+2020-08-17 15:54:27,138 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/core/3.3.0/core-3.3.0.pom
+2020-08-17 15:54:27,266 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/beust/jcommander/1.48/jcommander-1.48.pom
+2020-08-17 15:54:27,321 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/beust/jcommander/1.48/jcommander-1.48.pom
+2020-08-17 15:54:27,520 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/beust/jcommander/1.48/jcommander-1.48.pom
+2020-08-17 15:54:27,557 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/beust/jcommander/1.48/jcommander-1.48.pom
+2020-08-17 15:54:27,712 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.pom
+2020-08-17 15:54:27,733 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.pom
+2020-08-17 15:54:27,916 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.pom
+2020-08-17 15:54:28,036 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.pom
+2020-08-17 15:54:29,804 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0.pom
+2020-08-17 15:54:29,805 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0.pom
+2020-08-17 15:54:30,483 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0.pom
+2020-08-17 15:54:30,495 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0.pom
+2020-08-17 15:54:30,666 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-svggen/1.10/batik-svggen-1.10.pom
+2020-08-17 15:54:30,669 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-svggen/1.10/batik-svggen-1.10.pom
+2020-08-17 15:54:30,902 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-svggen/1.10/batik-svggen-1.10.pom
+2020-08-17 15:54:30,960 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-svggen/1.10/batik-svggen-1.10.pom
+2020-08-17 15:54:31,083 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik/1.10/batik-1.10.pom
+2020-08-17 15:54:31,132 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik/1.10/batik-1.10.pom
+2020-08-17 15:54:31,325 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik/1.10/batik-1.10.pom
+2020-08-17 15:54:31,358 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik/1.10/batik-1.10.pom
+2020-08-17 15:54:31,506 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-awt-util/1.10/batik-awt-util-1.10.pom
+2020-08-17 15:54:31,527 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-awt-util/1.10/batik-awt-util-1.10.pom
+2020-08-17 15:54:31,702 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-awt-util/1.10/batik-awt-util-1.10.pom
+2020-08-17 15:54:31,729 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-awt-util/1.10/batik-awt-util-1.10.pom
+2020-08-17 15:54:31,884 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-util/1.10/batik-util-1.10.pom
+2020-08-17 15:54:31,896 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-util/1.10/batik-util-1.10.pom
+2020-08-17 15:54:32,116 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-util/1.10/batik-util-1.10.pom
+2020-08-17 15:54:32,188 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-util/1.10/batik-util-1.10.pom
+2020-08-17 15:54:32,299 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.10/batik-constants-1.10.pom
+2020-08-17 15:54:32,357 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.10/batik-constants-1.10.pom
+2020-08-17 15:54:32,543 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.10/batik-constants-1.10.pom
+2020-08-17 15:54:32,560 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.10/batik-constants-1.10.pom
+2020-08-17 15:54:32,723 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-i18n/1.10/batik-i18n-1.10.pom
+2020-08-17 15:54:32,730 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-i18n/1.10/batik-i18n-1.10.pom
+2020-08-17 15:54:32,921 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-i18n/1.10/batik-i18n-1.10.pom
+2020-08-17 15:54:32,928 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-i18n/1.10/batik-i18n-1.10.pom
+2020-08-17 15:54:33,102 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/xmlgraphics-commons/2.2/xmlgraphics-commons-2.2.pom
+2020-08-17 15:54:33,102 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/xmlgraphics-commons/2.2/xmlgraphics-commons-2.2.pom
+2020-08-17 15:54:33,306 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/xmlgraphics-commons/2.2/xmlgraphics-commons-2.2.pom
+2020-08-17 15:54:33,313 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/xmlgraphics-commons/2.2/xmlgraphics-commons-2.2.pom
+2020-08-17 15:54:33,491 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-dom/1.10/batik-dom-1.10.pom
+2020-08-17 15:54:33,495 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-dom/1.10/batik-dom-1.10.pom
+2020-08-17 15:54:33,692 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-dom/1.10/batik-dom-1.10.pom
+2020-08-17 15:54:33,705 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-dom/1.10/batik-dom-1.10.pom
+2020-08-17 15:54:33,873 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-css/1.10/batik-css-1.10.pom
+2020-08-17 15:54:33,880 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-css/1.10/batik-css-1.10.pom
+2020-08-17 15:54:34,078 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-css/1.10/batik-css-1.10.pom
+2020-08-17 15:54:34,082 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-css/1.10/batik-css-1.10.pom
+2020-08-17 15:54:34,260 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-ext/1.10/batik-ext-1.10.pom
+2020-08-17 15:54:34,261 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-ext/1.10/batik-ext-1.10.pom
+2020-08-17 15:54:34,465 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-ext/1.10/batik-ext-1.10.pom
+2020-08-17 15:54:34,472 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-ext/1.10/batik-ext-1.10.pom
+2020-08-17 15:54:34,651 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-xml/1.10/batik-xml-1.10.pom
+2020-08-17 15:54:34,651 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-xml/1.10/batik-xml-1.10.pom
+2020-08-17 15:54:34,850 [Worker-225: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-xml/1.10/batik-xml-1.10.pom
+2020-08-17 15:54:34,857 [Worker-224: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-xml/1.10/batik-xml-1.10.pom
+2020-08-17 15:54:35,790 [AetherRepositoryConnector-app.camunda.com-9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/javase/3.3.0/javase-3.3.0.jar
+2020-08-17 15:54:35,793 [AetherRepositoryConnector-app.camunda.com-8-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/beust/jcommander/1.48/jcommander-1.48.jar
+2020-08-17 15:54:35,802 [AetherRepositoryConnector-app.camunda.com-9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/beust/jcommander/1.48/jcommander-1.48.jar
+2020-08-17 15:54:35,806 [AetherRepositoryConnector-app.camunda.com-9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/core/3.3.0/core-3.3.0.jar
+2020-08-17 15:54:35,813 [AetherRepositoryConnector-app.camunda.com-8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/javase/3.3.0/javase-3.3.0.jar
+2020-08-17 15:54:35,816 [AetherRepositoryConnector-app.camunda.com-8-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/core/3.3.0/core-3.3.0.jar
+2020-08-17 15:54:35,822 [AetherRepositoryConnector-app.camunda.com-9-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.jar
+2020-08-17 15:54:35,823 [AetherRepositoryConnector-app.camunda.com-8-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.jar
+2020-08-17 15:54:36,156 [AetherRepositoryConnector-app.camunda.com-9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/javase/3.3.0/javase-3.3.0.jar
+2020-08-17 15:54:36,194 [AetherRepositoryConnector-app.camunda.com-8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/javase/3.3.0/javase-3.3.0.jar
+2020-08-17 15:54:36,352 [AetherRepositoryConnector-app.camunda.com-9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/beust/jcommander/1.48/jcommander-1.48.jar
+2020-08-17 15:54:36,353 [AetherRepositoryConnector-app.camunda.com-8-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/beust/jcommander/1.48/jcommander-1.48.jar
+2020-08-17 15:54:36,529 [AetherRepositoryConnector-app.camunda.com-9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-svggen/1.10/batik-svggen-1.10.jar
+2020-08-17 15:54:36,533 [AetherRepositoryConnector-app.camunda.com-8-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-svggen/1.10/batik-svggen-1.10.jar
+2020-08-17 15:54:36,986 [AetherRepositoryConnector-app.camunda.com-8-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0.jar
+2020-08-17 15:54:36,988 [AetherRepositoryConnector-app.camunda.com-9-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0.jar
+2020-08-17 15:54:36,992 [AetherRepositoryConnector-app.camunda.com-9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/core/3.3.0/core-3.3.0.jar
+2020-08-17 15:54:37,018 [AetherRepositoryConnector-app.camunda.com-8-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/core/3.3.0/core-3.3.0.jar
+2020-08-17 15:54:37,171 [AetherRepositoryConnector-app.camunda.com-9-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-awt-util/1.10/batik-awt-util-1.10.jar
+2020-08-17 15:54:37,173 [AetherRepositoryConnector-app.camunda.com-8-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-awt-util/1.10/batik-awt-util-1.10.jar
+2020-08-17 15:54:37,176 [AetherRepositoryConnector-app.camunda.com-9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/xmlgraphics-commons/2.2/xmlgraphics-commons-2.2.jar
+2020-08-17 15:54:37,271 [AetherRepositoryConnector-app.camunda.com-8-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/xmlgraphics-commons/2.2/xmlgraphics-commons-2.2.jar
+2020-08-17 15:54:37,283 [AetherRepositoryConnector-app.camunda.com-8-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-svggen/1.10/batik-svggen-1.10.jar
+2020-08-17 15:54:37,296 [AetherRepositoryConnector-app.camunda.com-9-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.jar
+2020-08-17 15:54:37,310 [AetherRepositoryConnector-app.camunda.com-9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-svggen/1.10/batik-svggen-1.10.jar
+2020-08-17 15:54:37,409 [AetherRepositoryConnector-app.camunda.com-8-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1.jar
+2020-08-17 15:54:37,497 [AetherRepositoryConnector-app.camunda.com-8-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-util/1.10/batik-util-1.10.jar
+2020-08-17 15:54:37,564 [AetherRepositoryConnector-app.camunda.com-9-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-util/1.10/batik-util-1.10.jar
+2020-08-17 15:54:37,620 [AetherRepositoryConnector-app.camunda.com-9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.10/batik-constants-1.10.jar
+2020-08-17 15:54:37,690 [AetherRepositoryConnector-app.camunda.com-8-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.10/batik-constants-1.10.jar
+2020-08-17 15:54:37,713 [AetherRepositoryConnector-app.camunda.com-9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/xmlgraphics-commons/2.2/xmlgraphics-commons-2.2.jar
+2020-08-17 15:54:37,733 [AetherRepositoryConnector-app.camunda.com-8-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-util/1.10/batik-util-1.10.jar
+2020-08-17 15:54:37,786 [AetherRepositoryConnector-app.camunda.com-9-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-util/1.10/batik-util-1.10.jar
+2020-08-17 15:54:37,829 [AetherRepositoryConnector-app.camunda.com-9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.10/batik-constants-1.10.jar
+2020-08-17 15:54:37,862 [AetherRepositoryConnector-app.camunda.com-8-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/xmlgraphics-commons/2.2/xmlgraphics-commons-2.2.jar
+2020-08-17 15:54:37,886 [AetherRepositoryConnector-app.camunda.com-8-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.10/batik-constants-1.10.jar
+2020-08-17 15:54:37,901 [AetherRepositoryConnector-app.camunda.com-9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-i18n/1.10/batik-i18n-1.10.jar
+2020-08-17 15:54:37,903 [AetherRepositoryConnector-app.camunda.com-8-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-i18n/1.10/batik-i18n-1.10.jar
+2020-08-17 15:54:37,953 [AetherRepositoryConnector-app.camunda.com-9-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-dom/1.10/batik-dom-1.10.jar
+2020-08-17 15:54:38,013 [AetherRepositoryConnector-app.camunda.com-9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-css/1.10/batik-css-1.10.jar
+2020-08-17 15:54:38,091 [AetherRepositoryConnector-app.camunda.com-8-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-dom/1.10/batik-dom-1.10.jar
+2020-08-17 15:54:38,149 [AetherRepositoryConnector-app.camunda.com-8-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-css/1.10/batik-css-1.10.jar
+2020-08-17 15:54:38,207 [AetherRepositoryConnector-app.camunda.com-9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0.jar
+2020-08-17 15:54:38,209 [AetherRepositoryConnector-app.camunda.com-8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0.jar
+2020-08-17 15:54:38,218 [AetherRepositoryConnector-app.camunda.com-9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-i18n/1.10/batik-i18n-1.10.jar
+2020-08-17 15:54:38,219 [AetherRepositoryConnector-app.camunda.com-9-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-dom/1.10/batik-dom-1.10.jar
+2020-08-17 15:54:38,226 [AetherRepositoryConnector-app.camunda.com-8-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-i18n/1.10/batik-i18n-1.10.jar
+2020-08-17 15:54:38,349 [AetherRepositoryConnector-app.camunda.com-8-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-dom/1.10/batik-dom-1.10.jar
+2020-08-17 15:54:38,384 [AetherRepositoryConnector-app.camunda.com-9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-ext/1.10/batik-ext-1.10.jar
+2020-08-17 15:54:38,389 [AetherRepositoryConnector-app.camunda.com-8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-ext/1.10/batik-ext-1.10.jar
+2020-08-17 15:54:38,390 [AetherRepositoryConnector-app.camunda.com-9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-xml/1.10/batik-xml-1.10.jar
+2020-08-17 15:54:38,397 [AetherRepositoryConnector-app.camunda.com-8-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-xml/1.10/batik-xml-1.10.jar
+2020-08-17 15:54:38,506 [AetherRepositoryConnector-app.camunda.com-9-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-awt-util/1.10/batik-awt-util-1.10.jar
+2020-08-17 15:54:38,560 [AetherRepositoryConnector-app.camunda.com-8-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-awt-util/1.10/batik-awt-util-1.10.jar
+2020-08-17 15:54:38,578 [AetherRepositoryConnector-app.camunda.com-8-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-css/1.10/batik-css-1.10.jar
+2020-08-17 15:54:38,612 [AetherRepositoryConnector-app.camunda.com-9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-ext/1.10/batik-ext-1.10.jar
+2020-08-17 15:54:38,614 [AetherRepositoryConnector-app.camunda.com-9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-xml/1.10/batik-xml-1.10.jar
+2020-08-17 15:54:38,619 [AetherRepositoryConnector-app.camunda.com-9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-css/1.10/batik-css-1.10.jar
+2020-08-17 15:54:38,666 [AetherRepositoryConnector-app.camunda.com-8-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-xml/1.10/batik-xml-1.10.jar
+2020-08-17 15:54:38,666 [AetherRepositoryConnector-app.camunda.com-8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-ext/1.10/batik-ext-1.10.jar
+2020-08-17 15:54:39,249 [AetherRepositoryConnector-jitpack.io-10-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jitpack.io/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0.jar
+2020-08-17 15:54:39,255 [AetherRepositoryConnector-jitpack.io-11-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jitpack.io/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0.jar
+2020-08-17 15:54:39,321 [AetherRepositoryConnector-jitpack.io-10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jitpack.io/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0.jar
+2020-08-17 15:54:39,366 [AetherRepositoryConnector-jitpack.io-11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jitpack.io/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0.jar
+2020-08-17 15:54:39,456 [AetherRepositoryConnector-jitpack.io-10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0.jar
+2020-08-17 15:54:39,460 [AetherRepositoryConnector-jitpack.io-11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0.jar
+2020-08-17 15:54:39,565 [AetherRepositoryConnector-jitpack.io-11-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0.jar
+2020-08-17 15:54:39,930 [AetherRepositoryConnector-jitpack.io-10-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0.jar
+2020-08-17 15:54:39,989 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:54:39,990 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 15:54:39,990 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:54:39,990 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:54:41,072 [Worker-225: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 15:54:44,118 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0-sources.jar
+2020-08-17 15:54:44,632 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jitpack.io/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0-sources.jar
+2020-08-17 15:54:45,041 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/javase/2.6.0/javase-2.6.0-sources.jar
+2020-08-17 15:54:45,050 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.kenglxn.qrgen:javase:2.6.0
+2020-08-17 15:54:45,988 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/javase/3.3.0/javase-3.3.0-sources.jar
+2020-08-17 15:54:46,356 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/javase/3.3.0/javase-3.3.0-sources.jar
+2020-08-17 15:54:46,366 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.zxing:javase:3.3.0
+2020-08-17 15:54:47,272 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/google/zxing/core/3.3.0/core-3.3.0-sources.jar
+2020-08-17 15:54:48,429 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/google/zxing/core/3.3.0/core-3.3.0-sources.jar
+2020-08-17 15:54:48,440 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.zxing:core:3.3.0
+2020-08-17 15:54:49,372 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/beust/jcommander/1.48/jcommander-1.48-sources.jar
+2020-08-17 15:54:49,907 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/beust/jcommander/1.48/jcommander-1.48-sources.jar
+2020-08-17 15:54:49,928 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.beust:jcommander:1.48
+2020-08-17 15:54:50,907 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1-sources.jar
+2020-08-17 15:54:52,038 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1-sources.jar
+2020-08-17 15:54:52,049 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.jai-imageio:jai-imageio-core:1.3.1
+2020-08-17 15:54:55,380 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0-sources.jar
+2020-08-17 15:54:55,891 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jitpack.io/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0-sources.jar
+2020-08-17 15:54:56,176 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/kenglxn/qrgen/core/2.6.0/core-2.6.0-sources.jar
+2020-08-17 15:54:56,185 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.kenglxn.qrgen:core:2.6.0
+2020-08-17 15:54:57,105 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-svggen/1.10/batik-svggen-1.10-sources.jar
+2020-08-17 15:54:58,013 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-svggen/1.10/batik-svggen-1.10-sources.jar
+2020-08-17 15:54:58,026 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-svggen:1.10
+2020-08-17 15:54:59,015 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-awt-util/1.10/batik-awt-util-1.10-sources.jar
+2020-08-17 15:55:00,056 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-awt-util/1.10/batik-awt-util-1.10-sources.jar
+2020-08-17 15:55:00,074 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-awt-util:1.10
+2020-08-17 15:55:00,987 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/xmlgraphics-commons/2.2/xmlgraphics-commons-2.2-sources.jar
+2020-08-17 15:55:02,226 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/xmlgraphics-commons/2.2/xmlgraphics-commons-2.2-sources.jar
+2020-08-17 15:55:02,241 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:xmlgraphics-commons:2.2
+2020-08-17 15:55:03,192 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-util/1.10/batik-util-1.10-sources.jar
+2020-08-17 15:55:03,886 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-util/1.10/batik-util-1.10-sources.jar
+2020-08-17 15:55:03,905 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-util:1.10
+2020-08-17 15:55:04,834 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.10/batik-constants-1.10-sources.jar
+2020-08-17 15:55:05,011 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.10/batik-constants-1.10-sources.jar
+2020-08-17 15:55:05,025 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-constants:1.10
+2020-08-17 15:55:05,985 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-i18n/1.10/batik-i18n-1.10-sources.jar
+2020-08-17 15:55:06,336 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-i18n/1.10/batik-i18n-1.10-sources.jar
+2020-08-17 15:55:06,348 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-i18n:1.10
+2020-08-17 15:55:07,296 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-dom/1.10/batik-dom-1.10-sources.jar
+2020-08-17 15:55:08,004 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-dom/1.10/batik-dom-1.10-sources.jar
+2020-08-17 15:55:08,032 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-dom:1.10
+2020-08-17 15:55:09,037 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-css/1.10/batik-css-1.10-sources.jar
+2020-08-17 15:55:09,933 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-css/1.10/batik-css-1.10-sources.jar
+2020-08-17 15:55:09,949 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-css:1.10
+2020-08-17 15:55:10,870 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-ext/1.10/batik-ext-1.10-sources.jar
+2020-08-17 15:55:11,273 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-ext/1.10/batik-ext-1.10-sources.jar
+2020-08-17 15:55:11,288 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-ext:1.10
+2020-08-17 15:55:12,222 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-xml/1.10/batik-xml-1.10-sources.jar
+2020-08-17 15:55:12,594 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-xml/1.10/batik-xml-1.10-sources.jar
+2020-08-17 15:55:12,607 [Worker-225: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-xml:1.10
+2020-08-17 15:55:13,011 [Worker-225: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/xml-apis/xml-apis-ext/1.3.04/xml-apis-ext-1.3.04-sources.jar
+2020-08-17 15:55:13,013 [Worker-225: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for xml-apis:xml-apis-ext:1.3.04
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xml-apis:xml-apis-ext:jar:sources:1.3.04
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-08-17 15:55:14,483 [Worker-223: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/xml-apis/xml-apis-ext/1.3.04/xml-apis-ext-1.3.04-javadoc.jar
+2020-08-17 15:55:14,485 [Worker-223: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for xml-apis:xml-apis-ext:1.3.04
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xml-apis:xml-apis-ext:jar:javadoc:1.3.04
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-08-17 15:55:26,003 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:55:26,004 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 15:55:26,010 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:55:26,010 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:55:44,817 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:55:44,822 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 15:55:44,831 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:55:44,833 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:57:46,890 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:57:46,893 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 15:57:46,894 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:57:46,895 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 15:59:42,456 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:59:42,459 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 15:59:42,463 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 15:59:42,464 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:00:25,920 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:00:25,922 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:00:25,923 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:00:25,924 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:05:03,361 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:05:03,364 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-08-17 16:05:03,377 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:05:03,377 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:05:10,298 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:05:10,299 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:05:10,301 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:05:10,302 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:05:19,833 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:05:19,834 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:05:19,839 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:05:19,839 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:05:24,033 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:05:24,033 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:05:24,036 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:05:24,036 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:05:44,729 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:05:44,730 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:05:44,731 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:05:44,731 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:25:44,263 [Worker-231: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 16:25:44,405 [Worker-231: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:25:45,557 [Worker-231: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/commons-lang/commons-lang/1.0/commons-lang-1.0.jar
+2020-08-17 16:25:46,086 [Worker-231: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/commons-lang/commons-lang/1.0/commons-lang-1.0.jar
+2020-08-17 16:25:46,258 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:25:46,258 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:25:46,262 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:25:46,262 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:25:47,316 [Worker-231: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:25:48,023 [Worker-231: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/avalon-framework/avalon-framework-impl/4.2.0/avalon-framework-impl-4.2.0-sources.jar
+2020-08-17 16:25:48,025 [Worker-231: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for avalon-framework:avalon-framework-impl:4.2.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact avalon-framework:avalon-framework-impl:jar:sources:4.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-08-17 16:25:51,504 [Worker-231: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/commons-lang/commons-lang/1.0/commons-lang-1.0-sources.jar
+2020-08-17 16:25:51,914 [Worker-231: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/commons-lang/commons-lang/1.0/commons-lang-1.0-sources.jar
+2020-08-17 16:25:52,352 [Worker-231: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/1.0/commons-lang-1.0-sources.jar
+2020-08-17 16:25:52,355 [Worker-231: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for commons-lang:commons-lang:1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact commons-lang:commons-lang:jar:sources:1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-08-17 16:25:52,751 [Worker-231: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/ant/ant-launcher/1.7.1/ant-launcher-1.7.1-sources.jar
+2020-08-17 16:25:52,758 [Worker-231: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.ant:ant-launcher:1.7.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.ant:ant-launcher:jar:sources:1.7.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-08-17 16:26:22,532 [Worker-232: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/avalon-framework/avalon-framework-impl/4.2.0/avalon-framework-impl-4.2.0-javadoc.jar
+2020-08-17 16:26:22,541 [Worker-232: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for avalon-framework:avalon-framework-impl:4.2.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact avalon-framework:avalon-framework-impl:jar:javadoc:4.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-08-17 16:26:23,451 [Worker-232: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/commons-lang/commons-lang/1.0/commons-lang-1.0-javadoc.jar
+2020-08-17 16:26:24,159 [Worker-232: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/commons-lang/commons-lang/1.0/commons-lang-1.0-javadoc.jar
+2020-08-17 16:26:24,179 [Worker-232: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for commons-lang:commons-lang:1.0
+2020-08-17 16:26:24,580 [Worker-232: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/ant/ant-launcher/1.7.1/ant-launcher-1.7.1-javadoc.jar
+2020-08-17 16:26:24,582 [Worker-232: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.ant:ant-launcher:1.7.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.ant:ant-launcher:jar:javadoc:1.7.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-08-17 16:27:11,508 [Worker-233: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 16:27:11,580 [Worker-233: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:27:11,645 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:27:11,645 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:27:11,648 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:27:11,648 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:27:21,828 [Worker-234: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:27:21,840 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:27:21,841 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:27:21,843 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:27:21,843 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:27:24,813 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:27:24,813 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:27:24,814 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:27:24,814 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:27:44,468 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:27:44,469 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:27:44,474 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:27:44,474 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:28:00,969 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:28:00,970 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:28:00,977 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:28:00,977 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:33:46,078 [Worker-237: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 16:33:46,158 [Worker-237: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:33:46,333 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:33:46,334 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:33:46,336 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:33:46,336 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:33:50,562 [Worker-241: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:34:42,538 [Worker-231: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 16:34:42,604 [Worker-231: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:34:42,834 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:34:42,835 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:34:42,836 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:34:42,836 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:34:56,443 [Worker-232: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:34:56,510 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:34:56,511 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:34:56,516 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:34:56,516 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:35:09,758 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:35:09,759 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:35:09,762 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:35:09,762 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:36:36,918 [Worker-243: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 16:36:36,984 [Worker-243: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:36:38,104 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.13/batik-constants-1.13.pom
+2020-08-17 16:36:38,442 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.13/batik-constants-1.13.pom
+2020-08-17 16:36:38,634 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik/1.13/batik-1.13.pom
+2020-08-17 16:36:38,900 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik/1.13/batik-1.13.pom
+2020-08-17 16:36:39,084 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-shared-resources/1.13/batik-shared-resources-1.13.pom
+2020-08-17 16:36:39,266 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-shared-resources/1.13/batik-shared-resources-1.13.pom
+2020-08-17 16:36:39,451 [AetherRepositoryConnector-app.camunda.com-12-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.13/batik-constants-1.13.jar
+2020-08-17 16:36:39,634 [AetherRepositoryConnector-app.camunda.com-12-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.13/batik-constants-1.13.jar
+2020-08-17 16:36:40,206 [AetherRepositoryConnector-app.camunda.com-12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-shared-resources/1.13/batik-shared-resources-1.13.jar
+2020-08-17 16:36:40,390 [AetherRepositoryConnector-app.camunda.com-12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-shared-resources/1.13/batik-shared-resources-1.13.jar
+2020-08-17 16:36:40,493 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:36:40,494 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:36:40,495 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:36:40,495 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:36:41,516 [Worker-242: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:36:42,486 [Worker-242: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.13/batik-constants-1.13-sources.jar
+2020-08-17 16:36:42,674 [Worker-242: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-constants/1.13/batik-constants-1.13-sources.jar
+2020-08-17 16:36:42,724 [Worker-242: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-constants:1.13
+2020-08-17 16:36:43,730 [Worker-242: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-shared-resources/1.13/batik-shared-resources-1.13-sources.jar
+2020-08-17 16:36:43,916 [Worker-242: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://app.camunda.com/nexus/content/groups/public/org/apache/xmlgraphics/batik-shared-resources/1.13/batik-shared-resources-1.13-sources.jar
+2020-08-17 16:36:43,931 [Worker-242: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlgraphics:batik-shared-resources:1.13
+2020-08-17 16:36:50,502 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:36:50,505 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:36:50,511 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:36:50,512 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:37:01,917 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:37:01,917 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:37:01,922 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:37:01,922 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:41:40,092 [Worker-246: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 16:41:40,215 [Worker-246: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:41:40,319 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:41:40,319 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:41:40,322 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:41:40,322 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:43:20,907 [Worker-238: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:43:20,993 [Worker-249: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 16:43:21,066 [Worker-249: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:43:21,183 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:43:21,183 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:43:21,184 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:43:21,184 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:43:39,648 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:43:39,691 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:43:39,692 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:43:39,698 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:43:39,698 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:43:55,622 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:43:55,623 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:43:55,627 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:43:55,627 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:44:35,812 [Worker-247: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 16:44:35,863 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:44:35,996 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:44:35,996 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:44:35,997 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:44:35,997 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:44:46,967 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:44:46,998 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:44:46,999 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:44:47,003 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:44:47,003 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:45:02,913 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:45:02,914 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:45:02,917 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:45:02,917 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:45:41,131 [Worker-248: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 16:45:41,207 [Worker-248: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:45:41,340 [Worker-248: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:45:41,340 [Worker-248: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:45:41,341 [Worker-248: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:45:41,341 [Worker-248: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:45:46,227 [Worker-247: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:45:46,287 [Worker-250: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.com.xmltocdfi:xmltocfdi:1.0.0 @ /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/pom.xml.
+2020-08-17 16:45:46,338 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:45:46,459 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:45:46,460 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-17 16:45:46,462 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:45:46,462 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:45:59,416 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-08-17 16:45:59,496 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:45:59,496 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:45:59,499 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:45:59,500 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:46:13,200 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:46:13,201 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:46:13,206 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:46:13,206 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 16:46:30,391 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:46:30,392 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-17 16:46:30,399 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 16:46:30,399 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:00:05,890 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:00:05,893 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-08-17 17:00:05,902 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:00:05,902 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:03:40,237 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:03:40,238 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-08-17 17:03:40,240 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:03:40,240 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:03:54,659 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:03:54,661 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-08-17 17:03:54,670 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:03:54,670 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:04:08,707 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:04:08,707 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-08-17 17:04:08,712 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:04:08,712 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:04:25,422 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:04:25,423 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-08-17 17:04:25,425 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:04:25,425 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:04:29,559 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:04:29,572 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-08-17 17:04:29,578 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:04:29,578 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:04:48,922 [Worker-253: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:04:48,923 [Worker-253: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:04:48,929 [Worker-253: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:04:48,929 [Worker-253: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:08:40,727 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:08:40,745 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:08:40,759 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:08:40,759 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:08:53,621 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:08:53,623 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:08:53,630 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:08:53,631 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:09:20,776 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:09:20,778 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:09:20,795 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:09:20,795 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:09:35,317 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:09:35,322 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:09:35,409 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:09:35,409 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:10:09,875 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:10:09,877 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:10:09,879 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:10:09,879 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:19:07,528 [Worker-263: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:19:07,533 [Worker-263: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:19:07,552 [Worker-263: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:19:07,552 [Worker-263: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:21:06,135 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:21:06,143 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:21:06,152 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:21:06,152 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:21:26,464 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:21:26,465 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:21:26,467 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:21:26,467 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:22:34,535 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:22:34,537 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:22:34,544 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:22:34,544 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:22:47,057 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:22:47,058 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:22:47,061 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:22:47,061 [Worker-274: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:43:03,472 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:43:03,483 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:43:03,509 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:43:03,509 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:43:04,632 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:43:04,632 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:43:04,634 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:43:04,635 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:43:46,639 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:43:46,641 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:43:46,645 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:43:46,645 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:44:01,100 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:44:01,100 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:44:01,104 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:44:01,104 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:47:38,872 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:47:38,876 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:47:38,880 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:47:38,881 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:52:40,488 [Worker-279: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:52:40,497 [Worker-279: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:52:40,505 [Worker-279: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:52:40,505 [Worker-279: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:52:41,557 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:52:41,561 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:52:41,564 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:52:41,564 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:55:27,796 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:55:27,801 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:55:27,811 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:55:27,812 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:55:43,951 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:55:43,952 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:55:43,956 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:55:43,956 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:58:43,938 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:58:43,944 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:58:43,957 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:58:43,958 [Worker-290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:58:45,015 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:58:45,015 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:58:45,021 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:58:45,021 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 17:59:04,732 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:59:04,733 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 17:59:04,737 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 17:59:04,738 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 18:01:16,785 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 18:01:16,786 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 18:01:16,791 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 18:01:16,791 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-17 18:01:39,162 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 18:01:39,163 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-08-17 18:01:39,166 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-17 18:01:39,166 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
