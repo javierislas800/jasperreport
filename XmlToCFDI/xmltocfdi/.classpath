@@ -17,5 +17,6 @@
 	<classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.7/commons-io-2.7.jar" sourcepath="M2_REPO/commons-io/commons-io/2.7/commons-io-2.7-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/com/lowagie/itext/2.1.7.js7/itext-2.1.7.js7.jar" sourcepath="M2_REPO/com/lowagie/itext/2.1.7.js7/itext-2.1.7.js7-sources.jar"/>
 	<classpathentry kind="lib" path="libs/jasperreports-6.13.0.jar"/>
+	<classpathentry kind="lib" path="libs/xmltocfdi-beans-1.0.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

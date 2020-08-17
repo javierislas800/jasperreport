@@ -1,7 +1,9 @@
 eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=/Applications/Desarrollo/TIBCO Jaspersoft Studio 6.13.0.app/Contents/Eclipse/
 org.eclipse.jdt.core.classpathVariable.JRE_LIB=/Applications/Desarrollo/TIBCO Jaspersoft Studio 6.13.0.app/Contents/Eclipse/features/jre.macosx.cocoa.x86_64.feature_1.8.0.u151/jre/Contents/Home/lib/rt.jar
 org.eclipse.jdt.core.classpathVariable.JRE_SRC=
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=/Applications/Desarrollo/TIBCO Jaspersoft Studio 6.13.0.app/Contents/Eclipse/plugins/org.junit_4.12.0.v201504281640/
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
 org.eclipse.jdt.core.compiler.compliance=1.8

@@ -1,15 +1,21 @@
 package com.xmltocfdi_3_3;
 
 import java.io.File;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import org.apache.commons.io.FileUtils;
 
+import com.xmltocfdi_3_3.beans.Producto;
+
+import net.sf.jasperreports.engine.JRDataSource;
 import net.sf.jasperreports.engine.JREmptyDataSource;
 import net.sf.jasperreports.engine.JasperExportManager;
 import net.sf.jasperreports.engine.JasperFillManager;
 import net.sf.jasperreports.engine.JasperPrint;
+import net.sf.jasperreports.engine.data.JRBeanCollectionDataSource;
 
 public class Test {
 
@@ -76,10 +82,35 @@ public class Test {
 		params.put("metodoPago", "PPD - Pago en parcialidades o");
 		params.put("condicionesPago", "50% In Adv 50% Reception");
 		
+		// Lista de productos
+		Producto p1 = new Producto("1819588013100J", 
+				  				   "50202200 - Bebidas alcohólicas Tequila Tesoro Number 5\n" + 
+				  				   "Blanco 100% Agave 12/750 ML 40% Alc. Vol. (80 Proof)", 
+				  				   "XBX - Caja",
+				  				   "$81.50",
+				  				   "",
+				  				   "630.00", 
+				  				   "$51,345.00");
+		
+		Producto p2 = new Producto("1819588013117", 
+				  				   "50202200 - Bebidas alcohólicas Tequila Tesoro Number 5\n" + 
+				  				   "Reposado 100% Agave 12/750 ML 40% Alc. Vol. (80 Proof)", 
+				  				   "XBX - Caja",
+				  				   "$81.50",
+				  				   "",
+				  				   "560.00", 
+				  				   "$45,640.00");
+		
+		List<Producto> productos = new ArrayList<Producto>();
+		productos.add(p1);
+		productos.add(p2);
+		
+		JRDataSource cDataSource=new JRBeanCollectionDataSource(productos);
 		
 		// Se crea el pdf
 		JasperPrint jasperPrint = new JasperPrint();
-		jasperPrint = JasperFillManager.fillReport(sourceFileName, params, new JREmptyDataSource());
+		//jasperPrint = JasperFillManager.fillReport(sourceFileName, params, new JREmptyDataSource());
+		jasperPrint = JasperFillManager.fillReport(sourceFileName, params, cDataSource);
 	
 		
 		

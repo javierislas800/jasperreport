@@ -20,16 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>net.sf.jasperreports.nature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>cfdi_v3_3_1.jrxml</name>
-			<type>1</type>
-			<location>/Users/javier/Proyectos/Workana/cfdi_v3_3.jrxml</location>
-		</link>
-		<link>
-			<name>cfdi_v3_3_2.jrxml</name>
-			<type>1</type>
-			<location>/Users/javier/Proyectos/Workana/cfdi_v3_3.jrxml</location>
-		</link>
-	</linkedResources>
 </projectDescription>
