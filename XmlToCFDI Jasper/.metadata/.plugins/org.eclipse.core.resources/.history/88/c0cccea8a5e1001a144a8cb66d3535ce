@@ -398,7 +398,7 @@
 		</band>
 	</title>
 	<detail>
-		<band height="112" splitType="Stretch">
+		<band height="115" splitType="Stretch">
 			<rectangle>
 				<reportElement x="432" y="77" width="140" height="10" forecolor="#CFCFCF" backcolor="#CFCFCF" uuid="5f23fb30-e134-4ef1-8030-87f1e9b11103">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
@@ -550,9 +550,9 @@
 		</band>
 	</detail>
 	<pageFooter>
-		<band height="12">
+		<band height="10">
 			<staticText>
-				<reportElement x="515" y="0" width="23" height="10" uuid="f160628f-c3fc-4911-a010-91ba7b642dbe">
+				<reportElement x="516" y="0" width="23" height="10" uuid="f160628f-c3fc-4911-a010-91ba7b642dbe">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 					<property name="com.jaspersoft.studio.unit.width" value="px"/>
 				</reportElement>
@@ -562,7 +562,7 @@
 				<text><![CDATA[Página]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="549" y="0" width="10" height="10" uuid="5a52b9cc-a94d-42c9-8335-17096a849a0d">
+				<reportElement x="550" y="0" width="10" height="10" uuid="5a52b9cc-a94d-42c9-8335-17096a849a0d">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
 				<textElement>
@@ -571,7 +571,7 @@
 				<text><![CDATA[de]]></text>
 			</staticText>
 			<textField evaluationTime="Master">
-				<reportElement x="561" y="0" width="10" height="10" uuid="20077c72-adb6-48c4-9f02-3951ad436864">
+				<reportElement x="562" y="0" width="10" height="10" uuid="20077c72-adb6-48c4-9f02-3951ad436864">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
 				<textElement>
@@ -580,7 +580,7 @@
 				<textFieldExpression><![CDATA[$V{MASTER_TOTAL_PAGES}]]></textFieldExpression>
 			</textField>
 			<textField evaluationTime="Master">
-				<reportElement x="536" y="0" width="10" height="10" uuid="8af931d7-d656-4e0e-afc6-a343656e97a2"/>
+				<reportElement x="537" y="0" width="10" height="10" uuid="8af931d7-d656-4e0e-afc6-a343656e97a2"/>
 				<textElement textAlignment="Right">
 					<font size="7"/>
 				</textElement>
@@ -589,6 +589,6 @@
 		</band>
 	</pageFooter>
 	<summary>
-		<band height="575"/>
+		<band height="546" splitType="Stretch"/>
 	</summary>
 </jasperReport>
