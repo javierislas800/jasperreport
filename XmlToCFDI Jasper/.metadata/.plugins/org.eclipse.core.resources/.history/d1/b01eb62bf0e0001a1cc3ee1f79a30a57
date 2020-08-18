@@ -632,7 +632,7 @@
 		<band height="18" splitType="Stretch"/>
 	</columnFooter>
 	<pageFooter>
-		<band height="16" splitType="Stretch">
+		<band height="18" splitType="Stretch">
 			<textField>
 				<reportElement x="536" y="2" width="8" height="10" uuid="7af8ab93-7d33-48c7-9a59-7806e08650ef">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>

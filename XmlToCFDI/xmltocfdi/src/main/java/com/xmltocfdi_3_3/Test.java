@@ -145,9 +145,17 @@ public class Test {
 		
 		// QR
 		String qr = "https://verificacfdi.facturaelectronica.sat.gob.mx/default.aspx?&id=EC1E4A98-AB90-43B3-875E-FD168ED2D1C7&re=WAS070721UM3&rr=XEXX010101000&tt=000000000000096985.000000&fe=bly6Aw==";
-		
 		params.put("qr", qr);
 		
+		// Datos QR
+		params.put("cadenaComplemento", "||1.1|EC1E4A98-AB90-43B3-875E-FD168ED2D1C7|2019-07-\n" + 
+				"12T10:44:44|LEV031201SE6|ALmszy4C/MT/iIjE90FWvysKJH2wDd9fmiYpsXi4X96cn1vGkgsZwWt1TZ688UdAtj/DUSI6EsEBYnvJs\n" + 
+				"RyqCfGR98l0i90eZeCpww1lHn27ZrBHQd2a20z3U6jrJknLGj3FHG6l4SPTeYD56EdGDxBm1jQn7YeNSoOi62XbIXeOuay/pbP7f2hW\n" + 
+				"4fdrhPCdSVrjeRtdZCp3nrnYVkr2W8yFjKMAH7mZsYpZYrMEsmiJKDSoN5nPkR7QYxMQ+eh6QC5XTGE205ZwLUF+uAfuMJDmyw\n" + 
+				"hoiqaq988p9z8rtCb1ukyFGegEs2G3TFHspy9K+QPQ+9ivo5QEz3QJbly6Aw==|00001000000405179533||");
+		params.put("numeroSerieSAT", "00001000000405179533");
+		params.put("fechaHoraCertificado", "2019-07-12T10:44:44");
+		params.put("numeroSerieEmisor", "00001000000406781419");
 		
 		// Se crea el pdf
 		JasperPrint jasperPrint = new JasperPrint();

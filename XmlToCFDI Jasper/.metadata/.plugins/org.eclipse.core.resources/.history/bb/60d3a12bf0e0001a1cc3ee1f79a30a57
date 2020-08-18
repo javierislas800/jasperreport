@@ -632,7 +632,7 @@
 		<band height="18" splitType="Stretch"/>
 	</columnFooter>
 	<pageFooter>
-		<band height="16" splitType="Stretch">
+		<band height="18" splitType="Stretch">
 			<textField>
 				<reportElement x="536" y="2" width="8" height="10" uuid="7af8ab93-7d33-48c7-9a59-7806e08650ef">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
@@ -672,7 +672,7 @@
 		</band>
 	</pageFooter>
 	<lastPageFooter>
-		<band height="291">
+		<band height="303">
 			<staticText>
 				<reportElement x="0" y="130" width="64" height="10" uuid="5659198b-442e-4393-913c-e8a1f279310d">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
@@ -792,7 +792,7 @@
 				<textFieldExpression><![CDATA[$P{numeroSerieEmisor}]]></textFieldExpression>
 			</textField>
 			<staticText>
-				<reportElement x="0" y="281" width="394" height="10" uuid="51c76f26-1b0b-4952-a7d5-723281fa27ee">
+				<reportElement x="0" y="282" width="394" height="10" uuid="51c76f26-1b0b-4952-a7d5-723281fa27ee">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
 				<textElement>
@@ -889,42 +889,6 @@
 					<font size="7"/>
 				</textElement>
 				<textFieldExpression><![CDATA[$P{totalArtsFacturados}]]></textFieldExpression>
-			</textField>
-			<textField>
-				<reportElement x="539" y="280" width="8" height="10" uuid="e0d3190e-67a0-4a9b-96e6-bd6aa546f773">
-					<property name="com.jaspersoft.studio.unit.height" value="px"/>
-				</reportElement>
-				<textElement>
-					<font size="8"/>
-				</textElement>
-				<textFieldExpression><![CDATA[$V{PAGE_NUMBER}]]></textFieldExpression>
-			</textField>
-			<staticText>
-				<reportElement x="508" y="280" width="28" height="10" uuid="c5049d82-92a0-4bf0-a33d-d5a2b82f78ae">
-					<property name="com.jaspersoft.studio.unit.height" value="px"/>
-				</reportElement>
-				<textElement>
-					<font size="8"/>
-				</textElement>
-				<text><![CDATA[Página]]></text>
-			</staticText>
-			<staticText>
-				<reportElement x="550" y="280" width="10" height="10" uuid="d48490a1-11cf-4e07-9ad3-092108692e21">
-					<property name="com.jaspersoft.studio.unit.height" value="px"/>
-				</reportElement>
-				<textElement>
-					<font size="8"/>
-				</textElement>
-				<text><![CDATA[de]]></text>
-			</staticText>
-			<textField>
-				<reportElement x="564" y="280" width="10" height="10" uuid="3e04b64a-db44-48cf-928a-d8b392b6d9a7">
-					<property name="com.jaspersoft.studio.unit.height" value="px"/>
-				</reportElement>
-				<textElement>
-					<font size="8"/>
-				</textElement>
-				<textFieldExpression><![CDATA[$V{PAGE_COUNT}]]></textFieldExpression>
 			</textField>
 		</band>
 	</lastPageFooter>
