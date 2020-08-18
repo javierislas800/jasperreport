@@ -2659,3 +2659,18 @@ Contains: Missing xml-apis:xml-apis-ext:jar:javadoc:1.3.04
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-18 14:14:02.928
 !MESSAGE executing callback sts4.classpath.eGhNkZJO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-18 17:33:19.348
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-18 17:33:19.382
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-18 17:33:19.385
+!MESSAGE buffering callback sts4.classpath.eGhNkZJO xmltocfdi-beans false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-18 17:33:19.388
+!MESSAGE executing callback sts4.classpath.eGhNkZJO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-18 17:33:19.442
+!MESSAGE executing callback sts4.classpath.eGhNkZJO SUCCESS [done]
