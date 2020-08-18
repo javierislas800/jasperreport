@@ -1,2 +1,5 @@
+com/xmltocfdi_3_3/beans/MercanciaFactory.class
+com/xmltocfdi_3_3/scriptlet/PageNumberScriptlet.class
+com/xmltocfdi_3_3/beans/Mercancia.class
 com/xmltocfdi_3_3/beans/TestFactory.class
 com/xmltocfdi_3_3/beans/Producto.class
