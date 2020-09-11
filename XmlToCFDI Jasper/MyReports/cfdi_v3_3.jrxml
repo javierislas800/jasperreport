@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Jaspersoft Studio version 6.13.0.final using JasperReports Library version 6.13.0-46ada4d1be8f3c5985fd0b6146f3ed44caed6f05  -->
 <jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="cfdi_v3_3" pageWidth="612" pageHeight="792" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="f32c8f56-5859-454c-9b51-0b8113c71c02">
+	<style name="Zebra" mode="Transparent">
+		<conditionalStyle>
+			<conditionExpression><![CDATA[$V{REPORT_COUNT}%2 == 1]]></conditionExpression>
+			<style backcolor="#CAC5BB"/>
+		</conditionalStyle>
+	</style>
 	<subDataset name="ProductoDataset" uuid="f5fc41d2-7eea-43c8-ad9f-cdda62fb21a2">
 		<property name="com.jaspersoft.studio.data.defaultdataadapter" value="ProductoAdapter"/>
 		<queryString>
@@ -454,7 +460,7 @@
 				<textElement textAlignment="Center" verticalAlignment="Middle">
 					<font size="7"/>
 				</textElement>
-				<text><![CDATA[Descripción]]></text>
+				<text><![CDATA[Descripción...]]></text>
 			</staticText>
 			<rectangle radius="0">
 				<reportElement x="286" y="0" width="60" height="17" backcolor="#CFCFCF" uuid="f1dd3232-806f-4f95-b05d-32928f98f3f6">
@@ -556,9 +562,15 @@
 		</band>
 	</columnHeader>
 	<detail>
-		<band height="33" splitType="Stretch">
+		<band height="12" splitType="Stretch">
+			<rectangle>
+				<reportElement style="Zebra" mode="Opaque" x="1" y="1" width="572" height="10" isRemoveLineWhenBlank="true" isPrintWhenDetailOverflows="true" uuid="a28da6b3-c43b-4bc0-b2b2-c18e685676a4"/>
+				<graphicElement>
+					<pen lineColor="#FFFFFF"/>
+				</graphicElement>
+			</rectangle>
 			<textField>
-				<reportElement x="0" y="3" width="75" height="10" uuid="253844be-bbb5-475d-aca2-139261c9c1a2">
+				<reportElement x="0" y="0" width="75" height="10" uuid="253844be-bbb5-475d-aca2-139261c9c1a2">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="9974bd15-5db4-4ee8-a850-42409b6412c7"/>
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 					<property name="com.jaspersoft.studio.unit.width" value="px"/>
@@ -569,7 +581,7 @@
 				<textFieldExpression><![CDATA[$F{noIdentificacion}]]></textFieldExpression>
 			</textField>
 			<textField>
-				<reportElement x="77" y="3" width="207" height="26" uuid="e7d2fd25-f403-4b14-ad1b-5b02dcd75ceb">
+				<reportElement x="77" y="0" width="203" height="10" uuid="e7d2fd25-f403-4b14-ad1b-5b02dcd75ceb">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="318f3e55-636b-4bc9-b2b4-e7c9e3aadd85"/>
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
@@ -579,7 +591,7 @@
 				<textFieldExpression><![CDATA[$F{descripcion}]]></textFieldExpression>
 			</textField>
 			<textField>
-				<reportElement x="286" y="3" width="60" height="10" uuid="86205fc8-ee44-4848-a8bf-ec52ee07955a">
+				<reportElement x="286" y="0" width="60" height="10" uuid="86205fc8-ee44-4848-a8bf-ec52ee07955a">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="5a1e0e86-c656-49ef-8db9-e00ccc198097"/>
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
@@ -589,7 +601,7 @@
 				<textFieldExpression><![CDATA[$F{uMedida}]]></textFieldExpression>
 			</textField>
 			<textField>
-				<reportElement x="348" y="3" width="52" height="10" uuid="059c19cc-24db-4930-acc7-3456aa1fe6e1">
+				<reportElement x="348" y="0" width="52" height="10" uuid="059c19cc-24db-4930-acc7-3456aa1fe6e1">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="03bb4ed3-b053-49b4-b23e-c039ccc5abc9"/>
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
@@ -599,7 +611,7 @@
 				<textFieldExpression><![CDATA[$F{precioU}]]></textFieldExpression>
 			</textField>
 			<textField>
-				<reportElement x="402" y="3" width="52" height="10" uuid="182fb4df-9f01-4433-9e62-b77e340da571">
+				<reportElement x="402" y="0" width="52" height="10" uuid="182fb4df-9f01-4433-9e62-b77e340da571">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="d50c8ac5-3296-426e-868c-dbf22ac651fa"/>
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
@@ -609,7 +621,7 @@
 				<textFieldExpression><![CDATA[$F{descuento}]]></textFieldExpression>
 			</textField>
 			<textField>
-				<reportElement x="456" y="3" width="52" height="10" uuid="cf2f9337-0dda-464a-b9a3-4928c10173f0">
+				<reportElement x="456" y="0" width="52" height="10" uuid="cf2f9337-0dda-464a-b9a3-4928c10173f0">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="74993096-5003-4972-96d4-5ace07e426e7"/>
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
@@ -619,7 +631,7 @@
 				<textFieldExpression><![CDATA[$F{cantidad}]]></textFieldExpression>
 			</textField>
 			<textField>
-				<reportElement x="510" y="3" width="62" height="10" uuid="b54b8386-12f5-44a6-9299-7155f0ffa807">
+				<reportElement x="510" y="0" width="62" height="10" uuid="b54b8386-12f5-44a6-9299-7155f0ffa807">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="e0912dbd-a33b-4069-ab9a-fb13ff5de272"/>
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
@@ -630,6 +642,18 @@
 			</textField>
 		</band>
 	</detail>
+	<columnFooter>
+		<band height="25">
+			<staticText>
+				<reportElement x="200" y="10" width="80" height="14" uuid="2a4d5afc-50ae-4e62-bba5-647479d91555"/>
+				<text><![CDATA[Totales:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="290" y="10" width="60" height="14" uuid="91a19b8f-2d63-4f61-a5cb-e7f4efd4cdc3"/>
+				<text><![CDATA[$5,000.00]]></text>
+			</staticText>
+		</band>
+	</columnFooter>
 	<pageFooter>
 		<band height="14" splitType="Stretch">
 			<textField>

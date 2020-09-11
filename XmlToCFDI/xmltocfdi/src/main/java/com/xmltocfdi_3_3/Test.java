@@ -130,8 +130,8 @@ public class Test {
 		productos.add(p1);
 		productos.add(p2);
 		
-		//for (int i = 0; i< 25; i++)
-		//	productos.add(p1);
+		for (int i = 0; i< 5; i++)
+			productos.add(p1);
 		
 		JRDataSource productosDataSource = new JRBeanCollectionDataSource(productos);
 		
@@ -242,7 +242,7 @@ public class Test {
 		
 		byte[] pdfBytes = JasperExportManager.exportReportToPdf(jasperPrint);
 		
-		String pdfPathname = "/Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/main/resources/test1.pdf";
+		String pdfPathname = "/Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/main/resources/I 11 PACIFIC EDGE_generated.pdf";
 		FileUtils.writeByteArrayToFile(new File(pdfPathname), pdfBytes);
 		//createFile(pdfBytes, pdfPathname);
 		

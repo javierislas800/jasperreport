@@ -4744,3 +4744,13 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact xml-apis:xml-
 2020-08-18 18:02:41,818 [Worker-558: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
 2020-08-18 18:02:41,820 [Worker-558: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-18 18:02:41,820 [Worker-558: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-08-18 18:06:40,218 [Worker-563: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 18:06:40,220 [Worker-563: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2020-08-18 18:06:40,221 [Worker-563: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-18 18:06:40,221 [Worker-563: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
+2020-09-11 13:06:42,562 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-11 13:09:11,922 [Worker-1: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lowagie:itext:jar:2.1.7.js7 is missing, no dependency information available
+2020-09-11 13:10:17,000 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-11 13:10:17,014 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2020-09-11 13:10:17,027 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-11 13:10:17,027 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/test/resources
