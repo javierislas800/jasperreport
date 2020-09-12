@@ -20,4 +20,16 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>net.sf.jasperreports.nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>repColectividadesCaratula.jasper</name>
+			<type>1</type>
+			<location>/Users/javier/Proyectos/Workana/XmlToCFDI Jasper/MyReports/repColectividadesCaratula.jasper</location>
+		</link>
+		<link>
+			<name>repColectividadesCaratula.jrxml</name>
+			<type>1</type>
+			<location>/Users/javier/Proyectos/Workana/XmlToCFDI Jasper/MyReports/repColectividadesCaratula.jrxml</location>
+		</link>
+	</linkedResources>
 </projectDescription>
