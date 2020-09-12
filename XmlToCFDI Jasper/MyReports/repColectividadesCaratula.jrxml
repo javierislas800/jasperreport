@@ -158,62 +158,12 @@ AND G.CDRAMO = $P{CDRAMORC}
 AND G.ESTADO = $P{ESTADORC}  
 AND G.NMPOLIZA = $P{NMPOLIZARC}]]>
 		</queryString>
-		<field name="DSNOMBRE" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="DSNOMBRE"/>
-			<property name="com.jaspersoft.studio.field.label" value="DSNOMBRE"/>
-		</field>
-		<field name="CDFILIAL" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="CDFILIAL"/>
-			<property name="com.jaspersoft.studio.field.label" value="CDFILIAL"/>
-		</field>
-		<field name="CONTRIBUTORIA" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="CONTRIBUTORIA"/>
-			<property name="com.jaspersoft.studio.field.label" value="CONTRIBUTORIA"/>
-		</field>
-		<field name="DIVIDENDO" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="DIVIDENDO"/>
-			<property name="com.jaspersoft.studio.field.label" value="DIVIDENDO"/>
-		</field>
-		<field name="PLAN" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="PLAN"/>
-			<property name="com.jaspersoft.studio.field.label" value="PLAN"/>
-		</field>
-		<field name="NIVHO" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="NIVHO"/>
-			<property name="com.jaspersoft.studio.field.label" value="NIVHO"/>
-		</field>
-		<field name="CIRCULO" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="CIRCULO"/>
-			<property name="com.jaspersoft.studio.field.label" value="CIRCULO"/>
-		</field>
-		<field name="COASEGURO" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="COASEGURO"/>
-			<property name="com.jaspersoft.studio.field.label" value="COASEGURO"/>
-		</field>
-		<field name="SELMED" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="SELMED"/>
-			<property name="com.jaspersoft.studio.field.label" value="SELMED"/>
-		</field>
-		<field name="PRESTACION" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="PRESTACION"/>
-			<property name="com.jaspersoft.studio.field.label" value="PRESTACION"/>
-		</field>
-		<field name="ANTIGUEDAD" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="ANTIGUEDAD"/>
-			<property name="com.jaspersoft.studio.field.label" value="ANTIGUEDAD"/>
-		</field>
-		<field name="EXPERIENCIA" class="java.lang.String">
-			<property name="com.jaspersoft.studio.field.name" value="EXPERIENCIA"/>
-			<property name="com.jaspersoft.studio.field.label" value="EXPERIENCIA"/>
-		</field>
-		<field name="CDGRUPO" class="java.math.BigDecimal">
-			<property name="com.jaspersoft.studio.field.name" value="CDGRUPO"/>
-			<property name="com.jaspersoft.studio.field.label" value="CDGRUPO"/>
-		</field>
-		<field name="NMPOLIZA" class="java.math.BigDecimal">
-			<property name="com.jaspersoft.studio.field.name" value="NMPOLIZA"/>
-			<property name="com.jaspersoft.studio.field.label" value="NMPOLIZA"/>
-		</field>
+		<field name="filial" class="java.lang.String"/>
+		<field name="colectividad" class="java.lang.String"/>
+		<field name="primaNeta" class="java.lang.String"/>
+		<field name="analogos" class="java.lang.String"/>
+		<field name="derechoPoliza" class="java.lang.String"/>
+		<field name="recargoFraccionado" class="java.lang.String"/>
 	</subDataset>
 	<parameter name="CDUNIECO" class="java.lang.String"/>
 	<parameter name="CDRAMO" class="java.lang.String"/>
@@ -221,6 +171,8 @@ AND G.NMPOLIZA = $P{NMPOLIZARC}]]>
 	<parameter name="ESTADO" class="java.lang.String"/>
 	<parameter name="NOMBRE" class="java.lang.String"/>
 	<parameter name="DSEMPRESA" class="java.lang.String"/>
+	<parameter name="DSNEGOCI" class="java.lang.String"/>
+	<parameter name="CollectionColectividadBeanParam" class="net.sf.jasperreports.engine.data.JRBeanCollectionDataSource"/>
 	<queryString>
 		<![CDATA[SELECT VCE1.NOMBRE as "NOMBRE"
 	,VCE1.DSEMPRESA as "DSEMPRESA"
@@ -391,7 +343,7 @@ AND VCE.NMSUPLEM <=NMSUPLEM  )]]>
 						<font fontName="Arial" isBold="true"/>
 						<paragraph leftIndent="5"/>
 					</textElement>
-					<textFieldExpression><![CDATA[$F{DSNEGOCI}]]></textFieldExpression>
+					<textFieldExpression><![CDATA[$P{DSNEGOCI}]]></textFieldExpression>
 				</textField>
 				<staticText>
 					<reportElement mode="Opaque" x="10" y="144" width="328" height="13" forecolor="#203864" backcolor="#E7E6E6" uuid="407e45bc-e7a8-4388-aeaf-a37d2b128099">
@@ -934,7 +886,7 @@ AND VCE.NMSUPLEM <=NMSUPLEM  )]]>
 						<property name="com.jaspersoft.studio.unit.height" value="px"/>
 					</reportElement>
 					<jr:table xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
-						<datasetRun subDataset="ResumenColectividades" uuid="035b759b-f35c-4e32-97f0-994eca831bc7">
+						<datasetRun subDataset="ResumenColectividades" uuid="616651ea-0d19-4f2f-891c-2ae3c433f271">
 							<datasetParameter name="CDUNIECO">
 								<datasetParameterExpression><![CDATA[$P{CDUNIECO}]]></datasetParameterExpression>
 							</datasetParameter>
@@ -947,7 +899,7 @@ AND VCE.NMSUPLEM <=NMSUPLEM  )]]>
 							<datasetParameter name="NMPOLIZARC">
 								<datasetParameterExpression><![CDATA[$P{NMPOLIZA}]]></datasetParameterExpression>
 							</datasetParameter>
-							<connectionExpression><![CDATA[$P{REPORT_CONNECTION}]]></connectionExpression>
+							<dataSourceExpression><![CDATA[$P{CollectionColectividadBeanParam}]]></dataSourceExpression>
 						</datasetRun>
 						<jr:column width="59" uuid="2ebff3f6-e00c-4007-b804-e8253c06d999">
 							<property name="com.jaspersoft.studio.components.table.model.column.name" value="Column1"/>
@@ -988,14 +940,8 @@ AND VCE.NMSUPLEM <=NMSUPLEM  )]]>
 									<leftPen lineWidth="2.25" lineColor="#FA6500"/>
 								</box>
 								<textField>
-									<reportElement x="0" y="0" width="59" height="15" forecolor="#203864" uuid="adb6aabf-46e2-4dea-8b1c-a0b10999989d">
-										<property name="com.jaspersoft.studio.unit.leftIndent" value="px"/>
-									</reportElement>
-									<textElement verticalAlignment="Middle">
-										<font fontName="Arial"/>
-										<paragraph leftIndent="5"/>
-									</textElement>
-									<textFieldExpression><![CDATA[$F{CDFILIAL}]]></textFieldExpression>
+									<reportElement x="0" y="0" width="59" height="15" uuid="3291d8e5-fc02-4ab2-b93c-8e1a71a5939d"/>
+									<textFieldExpression><![CDATA[$F{filial}]]></textFieldExpression>
 								</textField>
 							</jr:detailCell>
 						</jr:column>
@@ -1033,14 +979,8 @@ AND VCE.NMSUPLEM <=NMSUPLEM  )]]>
 							</jr:columnFooter>
 							<jr:detailCell style="Table_TD" height="15">
 								<textField>
-									<reportElement x="0" y="0" width="156" height="15" forecolor="#203864" uuid="c5b977c3-5b9c-467c-9ad7-2a99a3daa2bd">
-										<property name="com.jaspersoft.studio.unit.leftIndent" value="px"/>
-									</reportElement>
-									<textElement verticalAlignment="Middle">
-										<font fontName="Arial"/>
-										<paragraph leftIndent="5"/>
-									</textElement>
-									<textFieldExpression><![CDATA[$F{DSNOMBRE}]]></textFieldExpression>
+									<reportElement x="0" y="0" width="156" height="15" uuid="4509e86d-8366-4993-9b2e-932dba5b09e8"/>
+									<textFieldExpression><![CDATA[$F{colectividad}]]></textFieldExpression>
 								</textField>
 							</jr:detailCell>
 						</jr:column>
@@ -1073,15 +1013,8 @@ AND VCE.NMSUPLEM <=NMSUPLEM  )]]>
 							</jr:columnFooter>
 							<jr:detailCell style="Table_TD" height="15">
 								<textField>
-									<reportElement x="0" y="0" width="98" height="15" forecolor="#203864" uuid="5a8abf4b-d2ee-43f6-9ada-db6bd2f8fb9f">
-										<property name="com.jaspersoft.studio.unit.leftIndent" value="px"/>
-										<property name="com.jaspersoft.studio.unit.rightIndent" value="px"/>
-									</reportElement>
-									<textElement textAlignment="Right" verticalAlignment="Middle">
-										<font fontName="Arial"/>
-										<paragraph leftIndent="0" rightIndent="5"/>
-									</textElement>
-									<textFieldExpression><![CDATA[$F{NIVHO}]]></textFieldExpression>
+									<reportElement x="0" y="0" width="98" height="15" uuid="cf882502-e2cb-4fa0-9ed6-ec8f81f6941c"/>
+									<textFieldExpression><![CDATA[$F{primaNeta}]]></textFieldExpression>
 								</textField>
 							</jr:detailCell>
 						</jr:column>
@@ -1114,14 +1047,8 @@ AND VCE.NMSUPLEM <=NMSUPLEM  )]]>
 							</jr:columnFooter>
 							<jr:detailCell style="Table_TD" height="15">
 								<textField>
-									<reportElement x="0" y="0" width="98" height="15" forecolor="#203864" uuid="ebd82cbd-3259-47bd-9b01-02846bd6a862">
-										<property name="com.jaspersoft.studio.unit.rightIndent" value="px"/>
-									</reportElement>
-									<textElement textAlignment="Right" verticalAlignment="Middle">
-										<font fontName="Arial"/>
-										<paragraph leftIndent="0" rightIndent="5"/>
-									</textElement>
-									<textFieldExpression><![CDATA[$F{SELMED}]]></textFieldExpression>
+									<reportElement x="0" y="0" width="98" height="15" uuid="5dfc3c9d-3cb9-45b4-a545-c02bcc751c64"/>
+									<textFieldExpression><![CDATA[$F{analogos}]]></textFieldExpression>
 								</textField>
 							</jr:detailCell>
 						</jr:column>
@@ -1153,14 +1080,8 @@ AND VCE.NMSUPLEM <=NMSUPLEM  )]]>
 							</jr:columnFooter>
 							<jr:detailCell style="Table_TD" height="15">
 								<textField>
-									<reportElement x="0" y="0" width="84" height="15" forecolor="#203864" uuid="852d2154-d359-4f10-9b4c-1304ff5dd01b">
-										<property name="com.jaspersoft.studio.unit.rightIndent" value="px"/>
-									</reportElement>
-									<textElement textAlignment="Right" verticalAlignment="Middle">
-										<font fontName="Arial"/>
-										<paragraph leftIndent="0" rightIndent="5"/>
-									</textElement>
-									<textFieldExpression><![CDATA[$F{DIVIDENDO}]]></textFieldExpression>
+									<reportElement x="0" y="0" width="84" height="15" uuid="c2af91a7-6024-448e-87e1-1b178217471e"/>
+									<textFieldExpression><![CDATA[$F{derechoPoliza}]]></textFieldExpression>
 								</textField>
 							</jr:detailCell>
 						</jr:column>
@@ -1192,14 +1113,8 @@ AND VCE.NMSUPLEM <=NMSUPLEM  )]]>
 							</jr:columnFooter>
 							<jr:detailCell style="Table_TD" height="15">
 								<textField>
-									<reportElement x="0" y="0" width="98" height="15" forecolor="#203864" uuid="d2b8e86e-d4a2-4ce0-af20-a7568526b365">
-										<property name="com.jaspersoft.studio.unit.rightIndent" value="px"/>
-									</reportElement>
-									<textElement textAlignment="Right" verticalAlignment="Middle">
-										<font fontName="Arial"/>
-										<paragraph leftIndent="0" rightIndent="5"/>
-									</textElement>
-									<textFieldExpression><![CDATA[$F{COASEGURO}]]></textFieldExpression>
+									<reportElement x="0" y="0" width="98" height="15" uuid="450379ba-fba9-4c4e-9610-b9e52de0e3a2"/>
+									<textFieldExpression><![CDATA[$F{recargoFraccionado}]]></textFieldExpression>
 								</textField>
 							</jr:detailCell>
 						</jr:column>
@@ -2106,7 +2021,7 @@ No. Póliza ]]></text>
 		</band>
 	</pageFooter>
 	<summary>
-		<band height="581" splitType="Stretch">
+		<band height="563" splitType="Stretch">
 			<property name="com.jaspersoft.studio.unit.height" value="px"/>
 			<staticText>
 				<reportElement x="15" y="5" width="575" height="18" forecolor="#203864" uuid="fa2f03e9-7bef-46da-a8de-e7e3da8ce0e4">

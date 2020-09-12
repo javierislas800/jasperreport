@@ -1,3 +1,5 @@
 /.metadata
 /XmlToCFDI Jasper/.metadata/
 ./XmlToCFDI/.metadata/
+XmlToCFDI/xmltocfdi-beans/target/
+XmlToCFDI/.metadata/

@@ -77,6 +77,14 @@
 	<field name="precioU" class="java.lang.String">
 		<fieldDescription><![CDATA[precioU]]></fieldDescription>
 	</field>
+	<group name="NewBand">
+		<groupHeader>
+			<band height="50"/>
+		</groupHeader>
+		<groupFooter>
+			<band height="50"/>
+		</groupFooter>
+	</group>
 	<title>
 		<band height="146" splitType="Stretch">
 			<rectangle radius="7">
