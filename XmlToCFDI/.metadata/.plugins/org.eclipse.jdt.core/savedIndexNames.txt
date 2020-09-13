@@ -2,7 +2,6 @@ INDEX VERSION 1.131+/Users/javier/Proyectos/Workana/XmlToCFDI/.metadata/.plugins
 610639592.index
 280252134.index
 1547051913.index
-3401119094.index
 1080185322.index
 2278299645.index
 3899856467.index

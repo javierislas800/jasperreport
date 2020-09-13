@@ -9,6 +9,17 @@ public class Colectividad {
 	private String derechoPoliza;
 	private String recargoFraccionado;
 	
+	public static Colectividad getEmptyBean() {
+		Colectividad colectividad = new Colectividad();
+		colectividad.setAnalogos("");
+		colectividad.setColectividad("");
+		colectividad.setDerechoPoliza("");
+		colectividad.setFilial("");
+		colectividad.setPrimaNeta("");
+		colectividad.setRecargoFraccionado("");
+		return colectividad;
+	}
+	
 	public String getFilial() {
 		return filial;
 	}

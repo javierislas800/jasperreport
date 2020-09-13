@@ -24,7 +24,7 @@ import net.sf.jasperreports.engine.xml.JRXmlLoader;
 
 public class ReporteColectividadesCaratula {
 
-	public void createPDF() throws Exception {
+	public void createPDF(int numeroFilas) throws Exception {
 		InputStream input = new FileInputStream(new File("/Users/javier/Proyectos/Workana/XmlToCFDI Jasper/MyReports/repColectividadesCaratula.jrxml"));
 		//String jasperSubPath = "/Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/main/resources/Blank_A4.jasper";
 				
@@ -38,7 +38,9 @@ public class ReporteColectividadesCaratula {
 
 		List<Colectividad> listItems = new ArrayList<Colectividad>();
 		
-		for (int i = 0; i < 5; i++) {
+		
+		// Se agregan filas de datos.
+		for (int i = 0; i < numeroFilas; i++) {
 			Colectividad col1 = new Colectividad();
 			col1.setAnalogos("A" + i);
 			col1.setColectividad("C" + i);
@@ -50,7 +52,11 @@ public class ReporteColectividadesCaratula {
 			listItems.add(col1);
 		}
 
-		
+		// Se agregan filas vacias.
+		int rowsToAdd = RowsEmptyUtil.getRowsEmpty(listItems.size());
+		for (int i = 0; i < rowsToAdd; i++) {
+			listItems.add(Colectividad.getEmptyBean());
+		}
 		
 		
 		JRBeanCollectionDataSource colectividadesJRBean = new JRBeanCollectionDataSource(listItems);
@@ -65,7 +71,7 @@ public class ReporteColectividadesCaratula {
 				
 		byte[] pdfBytes = JasperExportManager.exportReportToPdf(jasperPrint);
 				
-		String pdfPathname = "/Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/main/resources/I 11 PACIFIC EDGE_generated.pdf";
+		String pdfPathname = "/Users/javier/Proyectos/Workana/XmlToCFDI/xmltocfdi/src/main/resources/Reporte_Colectividad" + numeroFilas + ".pdf";
 		FileUtils.writeByteArrayToFile(new File(pdfPathname), pdfBytes);
 	}
 	
